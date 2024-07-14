@@ -1,0 +1,363 @@
+,Label,Name,Risk,Score,1,2,3,4
+0,Gini index of income inequality,ACS_GINI_INDEX,financial Risk,1,0.01,0.43,0.49,0.89
+1,"Median income of grandparent householder and/or spouse responsible for grandchildren under 18 (dollars, inflation-adjusted to data file year)",ACS_MDN_GRNDPRNT_INC,financial Risk,-1,250001.0,56357.00000000003,39063.0,2499.0
+2,"Median income of grandparent householder and/or spouse responsible for grandchildren under 18 and no parent present (dollars, inflation-adjusted to data file year)",ACS_MDN_GRNDPRNT_NO_PRNT_INC,financial Risk,-1,250001.0,41829.0,28235.0,2499.0
+3,Median selected monthly owner costs for houses with a mortgage (dollars),ACS_MDN_OWNER_COST_MORTGAGE,Housing Challenges,1,368.0,1525.0,2347.0,4001.0
+4,Median selected monthly owner costs for houses without a mortgage (dollars),ACS_MDN_OWNER_COST_NO_MORTG,Housing Challenges,1,99.0,531.0,783.0,1501.0
+5,"Median household income (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC,financial Risk,-1,250001.0,54646.200000000004,39648.45,2499.0
+6,"Median household income for households with an American Indian and Alaska Native alone householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_AIAN,financial Risk,-1,250001.0,47578.0,30729.0,2499.0
+7,"Median household income for households with an Asian alone householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_ASIAN,financial Risk,-1,250001.0,69205.0,46189.0,2499.0
+8,"Median household income for households with a Black or African American alone householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_BLACK,financial Risk,-1,250001.0,38974.0,25729.0,2499.0
+9,"Median household income for households with a Hispanic or Latino householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_HISP,financial Risk,-1,250001.0,48555.0,33889.95,2499.0
+10,"Median household income for households with a two or more races householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_MULTI,financial Risk,-1,250001.0,51643.0,33735.0,2499.0
+11,"Median household income for households with a Native Hawaiian and other Pacific Islander alone householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_NHPI,financial Risk,-1,250001.0,60515.0,39609.0,2499.0
+12,"Median household income for households with a some other race alone householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_OTHER,financial Risk,-1,250001.0,46204.0,31757.0,2499.0
+13,"Median household income for households with a White alone, not Hispanic or Latino householder (dollars, inflation-adjusted to data file year)",ACS_MEDIAN_HH_INC_WHITE,financial Risk,-1,250001.0,58448.0,43750.0,2499.0
+14,Median home value of owner-occupied housing units (dollars),ACS_MEDIAN_HOME_VALUE,Housing Challenges,-1,2000001.0,153700.0,94800.0,9999.0
+15,"Median income of female population (dollars, ages 15 and over with income in the past 12 months, inflation-adjusted to data file year)",ACS_MEDIAN_INC_F,financial Risk,-1,182570.0,22929.0,17760.0,2499.0
+16,"Median income of male population (dollars, ages 15 and over with income in the past 12 months, inflation-adjusted to data file year)",ACS_MEDIAN_INC_M,financial Risk,-1,250001.0,35200.200000000004,25952.45,2499.0
+17,"Median income of civilian nonveteran population (dollars, ages 18 and over, inflation-adjusted to data file year)",ACS_MEDIAN_NONVET_INC,financial Risk,-1,204708.0,28469.0,21780.0,2499.0
+18,"Median income of civilian veterans (dollars, ages 18 and over, inflation-adjusted to data file year)",ACS_MEDIAN_VET_INC,financial Risk,-1,250001.0,37396.0,27961.0,2499.0
+19,Median year structure built of housing units,ACS_MEDIAN_YEAR_BUILT,Housing Challenges,1,0.0,1978.0,1989.0,2014.0
+20,Percentage of housing in structures with 10 or more units,ACS_PCT_10UNITS,Housing Challenges,1,0.0,4.57,21.62,100.0
+21,Percentage of owner-occupied housing units with more than one occupant per room,ACS_PCT_1UP_OWNER_1ROOM,Housing Challenges,1,0.0,1.17,3.77,100.0
+22,Percentage of housing units with more than one occupant per room,ACS_PCT_1UP_PERS_1ROOM,Housing Challenges,1,0.0,2.22,5.58,100.0
+23,Percentage of workers with < 15-minute commute time (ages 16 and over),ACS_PCT_COMMT_15MIN,Transportation Risk,-1,100.0,21.0,13.06,0.0
+24,Percentage of workers with 15- to 29-minute commute time (ages 16 and over),ACS_PCT_COMMT_29MIN,Transportation Risk,-1,100.0,32.05,23.13,0.0
+25,Percentage of workers with 30- to 59-minute commute time (ages 16 and over),ACS_PCT_COMMT_59MIN,Transportation Risk,1,0.0,31.31,41.57,100.0
+26,Percentage of workers with at least 60-minute commute time (ages 16 and over),ACS_PCT_COMMT_60MINUP,Transportation Risk,1,0.0,8.79800000000003,16.09,100.0
+27,Percentage of population with a disability,ACS_PCT_DISABLE,Disease Risk,1,0.0,14.7,20.19,100.0
+28,Percentage of population with a master's or professional school degree or doctorate (ages 25 and over),ACS_PCT_GRADUATE_DGR,Educational Challenges,-1,100.0,6.33,3.34,0.0
+29,Percentage of unmarried partner households that received food stamps/SNAP benefits,ACS_PCT_HH_1FAM_FOOD_STMP,Food Security,-1,100.0,17.69,4.42,0.0
+30,"Percentage of households with broadband such as cable, fiber optic or DSL ",ACS_PCT_HH_BROADBAND,Technology Access Risk,-1,100.0,61.06,44.7,0.0
+31,Percentage of households with broadband of any type,ACS_PCT_HH_BROADBAND_ANY,Technology Access Risk,-1,100.0,81.19,71.95,0.0
+32,"Percentage of households with broadband such as cable, fiber optic or DSL with no other type of Internet subscription",ACS_PCT_HH_BROADBAND_ONLY,Technology Access Risk,1,0.0,8.93,13.6,100.0
+33,Percentage of households with a cellular data plan,ACS_PCT_HH_CELLULAR,Technology Access Risk,-1,100.0,69.64,58.61,0.0
+34,Percentage of households with a cellular data plan with no other type of internet subscription,ACS_PCT_HH_CELLULAR_ONLY,Technology Access Risk,1,0.0,12.96,19.91,100.0
+35,Percentage of households with dial up and no other type of internet subscription,ACS_PCT_HH_DIAL_INTERNET_ONLY,Technology Access Risk,1,0.0,0.09,0.88,44.44
+36,"Percentage of households that received food stamps/SNAP, past 12 months",ACS_PCT_HH_FOOD_STMP,Food Security,-1,100.0,6.93,2.58,0.0
+37,Percentage of households receiving food stamps/SNAP with income below the poverty level,ACS_PCT_HH_FOOD_STMP_BLW_POV,Food Security,-1,100.0,2.43,0.42,0.0
+38,Percentage of households receiving food stamps/SNAP with income below the poverty level,ACS_PCT_HH_FOOD_STMP_BLW_POV,financial Risk,-1,100.0,2.43,0.42,0.0
+39,"Percentage of population with household income less than $10,000",ACS_PCT_HH_INC_10000,financial Risk,1,0.0,5.72,10.98,100.0
+40,"Percentage of population with household income greater than $100,000",ACS_PCT_HH_INC_100000,financial Risk,-1,100.0,20.55,11.09,0.0
+41,"Percentage of population with household income between $10,000 and $14,999",ACS_PCT_HH_INC_14999,financial Risk,1,0.0,4.42,8.16,100.0
+42,"Percentage of population with household income between $15,000 and $24,999",ACS_PCT_HH_INC_24999,financial Risk,1,0.0,9.74,14.94,100.0
+43,"Percentage of population with household income between $25,000 and $49,999",ACS_PCT_HH_INC_49999,financial Risk,1,0.0,23.86,30.16,100.0
+44,"Percentage of population with household income between $50,000 and $99,999",ACS_PCT_HH_INC_99999,financial Risk,-1,100.0,28.53,20.94,0.0
+45,Percentage of households with any internet subscription,ACS_PCT_HH_INTERNET,Technology Access Risk,-1,100.0,81.65,72.44,0.0
+46,Percentage of households with internet access without a subscription,ACS_PCT_HH_INTERNET_NO_SUBS,Technology Access Risk,-1,100.0,1.49,0.46,0.0
+47,Percentage of households without a computing device,ACS_PCT_HH_NO_COMP_DEV,Technology Access Risk,1,0.0,10.54,16.99,100.0
+48,Percentage of households not receiving food stamps/SNAP with income below the poverty level,ACS_PCT_HH_NO_FD_STMP_BLW_POV,Food Security,1,0.0,7.55,12.15,100.0
+49,Percentage of households not receiving food stamps/SNAP with income below the poverty level,ACS_PCT_HH_NO_FD_STMP_BLW_POV,financial Risk,1,0.0,7.55,12.15,100.0
+50,Percentage of households with no internet access,ACS_PCT_HH_NO_INTERNET,Technology Access Risk,1,0.0,15.35,23.87,100.0
+51,Percentage of households with other type of computer,ACS_PCT_HH_OTHER_COMP,Technology Access Risk,-1,100.0,1.4,0.49,0.0
+52,Percentage of households with a desktop or laptop,ACS_PCT_HH_PC,Technology Access Risk,-1,100.0,72.68,60.14,0.0
+53,Percentage of households with a desktop or laptop with no other type of computing device,ACS_PCT_HH_PC_ONLY,Technology Access Risk,-1,100.0,4.25,2.25,0.0
+54,Percentage of households with public assistance income or food stamps/SNAP,ACS_PCT_HH_PUB_ASSIST,Food Security,-1,100.0,7.67,3.19,0.0
+55,Percentage of households with public assistance income or food stamps/SNAP,ACS_PCT_HH_PUB_ASSIST,financial Risk,-1,100.0,7.67,3.19,0.0
+56,Percentage of households with satellite internet service,ACS_PCT_HH_SAT_INTERNET,Technology Access Risk,-1,100.0,5.12,2.46,0.0
+57,Percentage of households with a smartphone,ACS_PCT_HH_SMARTPHONE,Technology Access Risk,-1,100.0,79.14,71.02,0.0
+58,Percentage of households with a smartphone with no other type of computing device,ACS_PCT_HH_SMARTPHONE_ONLY,Technology Access Risk,1,0.0,9.48,16.4,100.0
+59,Percentage of households with a tablet or other portable wireless computer,ACS_PCT_HH_TABLET,Technology Access Risk,-1,100.0,55.3,45.0,0.0
+60,Percentage of households with a tablet or other portable wireless computer with no other type of computing device,ACS_PCT_HH_TABLET_ONLY,Technology Access Risk,1,0.0,0.99,2.11,57.41
+61,Percentage of occupied housing units with electricity heating,ACS_PCT_HU_ELEC,Housing Challenges,-1,100.0,21.39,8.66,0.0
+62,Percentage of housing units lacking complete kitchen facilities,ACS_PCT_HU_KITCHEN,Housing Challenges,1,0.0,3.08,7.16,100.0
+63,Percentage of housing units that are mobile homes,ACS_PCT_HU_MOBILE_HOME,Housing Challenges,1,0.0,4.69,18.69,100.0
+64,Percentage of occupied housing units without fuel,ACS_PCT_HU_NO_FUEL,Housing Challenges,1,0.0,0.39,1.63,100.0
+65,Percentage of housing units with no vehicle available,ACS_PCT_HU_NO_VEH,Transportation Risk,1,0.0,5.95,14.07,100.0
+66,Percentage of housing units lacking complete plumbing facilities,ACS_PCT_HU_PLUMBING,Housing Challenges,1,0.0,2.2,6.43,100.0
+67,Percentage of occupied housing units with utility gas heating,ACS_PCT_HU_UTILITY_GAS,Housing Challenges,-1,100.0,32.23,4.19,0.0
+68,Percentage of population with income to poverty ratio under 0.50,ACS_PCT_INC50,financial Risk,1,0.0,5.54,10.82,100.0
+69,Percentage of population with income to poverty ratio under 0.50 (ages 65 and over),ACS_PCT_INC50_ABOVE65,financial Risk,1,0.0,2.66,6.16,100.0
+70,Percentage of children with income to poverty ratio under 0.50  (ages 17 and below),ACS_PCT_INC50_BELOW17,financial Risk,1,0.0,6.43,16.95,100.0
+71,Percentage of population with less than high school education (ages 25 and over),ACS_PCT_LT_HS,Educational Challenges,1,0.0,11.42,20.52,100.0
+72,Percentage of population with any Medicaid/means-tested public health insurance coverage,ACS_PCT_MEDICAID_ANY,financial Risk,-1,100.0,12.14,5.68,0.0
+73,Percentage of population with any Medicaid/means-tested public health insurance coverage,ACS_PCT_MEDICAID_ANY,healthcare access risk,-1,100.0,12.14,5.68,0.0
+74,Percentage of population with any Medicaid/means-tested public health insurance coverage (ages 64 and below),ACS_PCT_MEDICAID_ANY_BELOW64,financial Risk,-1,100.0,13.78,6.16,0.0
+75,Percentage of population with Medicare only,ACS_PCT_MEDICARE_ONLY,financial Risk,-1,100.0,4.77,2.93,0.0
+76,Percentage of civilian nonveterans with income below the poverty level in the past 12 months (between ages 18 and 64),ACS_PCT_NONVET_POV_18_64,financial Risk,1,0.0,12.78,22.68,100.0
+77,Percentage of occupied housing units: owner-occupied,ACS_PCT_OWNER_HU,Housing Challenges,1,0.0,78.88,88.0,100.0
+78,Percentage of owner-occupied housing units with selected monthly owner costs equal to 30 percent or more of household income,ACS_PCT_OWNER_HU_COST_30PCT,Housing Challenges,1,0.0,22.42,31.5,100.0
+79,Percentage of owner-occupied housing units with selected monthly owner costs equal to 30 percent or more of household income,ACS_PCT_OWNER_HU_COST_30PCT,financial Risk,1,0.0,22.42,31.5,100.0
+80,Percentage of owner-occupied housing units with selected monthly owner costs equal to 50 percent or more of household income,ACS_PCT_OWNER_HU_COST_50PCT,Housing Challenges,1,0.0,8.97,14.5,100.0
+81,Percentage of owner-occupied housing units with selected monthly owner costs equal to 50 percent or more of household income,ACS_PCT_OWNER_HU_COST_50PCT,financial Risk,1,0.0,8.97,14.5,100.0
+82,Percentage of population with an income to poverty ratio between 1.00 and 1.24,ACS_PCT_PERSON_INC_100_124,financial Risk,1,0.0,4.38,7.95,100.0
+83,Percentage of population with an income to poverty ratio between 1.25 and 1.99,ACS_PCT_PERSON_INC_125_199,financial Risk,-1,100.0,10.98,5.72,0.0
+84,Percentage of population with an income to poverty ratio of 2.00 or higher,ACS_PCT_PERSON_INC_ABOVE200,financial Risk,-1,100.0,66.18,49.97,0.0
+85,Percentage of population with an income to poverty ratio under 1.00,ACS_PCT_PERSON_INC_BELOW99,financial Risk,1,0.0,13.24,23.97,100.0
+86,Percentage of population with any postsecondary education (ages 25 and over),ACS_PCT_POSTHS_ED,Educational Challenges,-1,100.0,53.0,41.07,0.0
+87,Percentage of population with employer-based and Medicare insurance coverage,ACS_PCT_PRIVATE_MDCR,financial Risk,-1,100.0,2.32,1.07,0.0
+88,"Percentage of population with Medicare, Medicaid, TRICARE/military, U.S. Department of Veterans Affairs (VA) coverage and other public-only health insurance combinations",ACS_PCT_PUBLIC_ONLY,financial Risk,-1,100.0,20.1,12.48,0.0
+89,Percentage of workers who use public transportation with 30- to 59-minute commute time (ages 16 and over),ACS_PCT_PUB_COMMT_59MIN,Transportation Risk,1,0.0,35.37,76.19,100.0
+90,Percentage of workers who use public transportation with at least 60-minute commute time (ages 16 and over),ACS_PCT_PUB_COMMT_60MINUP,Transportation Risk,1,0.0,35.46,88.55,100.0
+91,Percentage of occupied housing units: rented,ACS_PCT_RENTER_HU,Housing Challenges,1,0.0,30.92,57.37,100.0
+92,Percentage of renter-occupied housing units occupied by householders aged 65 and above,ACS_PCT_RENTER_HU_ABOVE65,Housing Challenges,1,0.0,17.83,29.75,100.0
+93,Percentage of renter-occupied housing units with rent equal to 30 percent or more of household income,ACS_PCT_RENTER_HU_COST_30PCT,Housing Challenges,1,0.0,49.52,63.03,100.0
+94,Percentage of renter-occupied housing units with rent equal to 30 percent or more of household income,ACS_PCT_RENTER_HU_COST_30PCT,financial Risk,1,0.0,49.52,63.03,100.0
+95,Percentage of renter-occupied housing units with rent equal to 50 percent or more of household income,ACS_PCT_RENTER_HU_COST_50PCT,Housing Challenges,1,0.0,23.84,36.05,100.0
+96,Percentage of renter-occupied housing units with rent equal to 50 percent or more of household income,ACS_PCT_RENTER_HU_COST_50PCT,financial Risk,1,0.0,23.84,36.05,100.0
+97,Percentage of population with direct-purchase and Medicare health insurance (ages 35 and over),ACS_PCT_SELF_MDCR_ABOVE35,financial Risk,-1,100.0,2.64,0.96,0.0
+98,Percentage of civilian veterans with income below the poverty level in past 12 months (between ages 18 and 64),ACS_PCT_VET_POV_18_64,financial Risk,1,0.0,5.22,21.43,100.0
+99,"Per capita income (dollars, inflation-adjusted to data file year)",ACS_PER_CAPITA_INC,financial Risk,-1,489580.0,27848.0,20662.0,14.0
+100,Total housing units,ACS_TOT_HU,Housing Challenges,-1,76457.0,1525.0,1063.0,0.0
+101,"Total number of non-federal emergency medicine physicians per 1,000 population",AHRF_ER_MED_RATE,healthcare access risk,-1,1.59,0.08,0.02,0.0
+102,"Total number of Marketplace enrollees, household income 100% to 150% of FPL",AHRF_MARKET_ENROL_150,financial Risk,1,0.0,1598.0,12118.0,328412.0
+103,"Total number of Marketplace enrollees, household income >150% to 200% of FPL",AHRF_MARKET_ENROL_200,financial Risk,1,0.0,1873.0,7743.0,67040.0
+104,"Total number of Marketplace enrollees, household income >200% to 250% of FPL",AHRF_MARKET_ENROL_250,financial Risk,-1,27716.0,432.0,94.0,0.0
+105,"Total number of Marketplace enrollees, household income >250% to 300% of FPL",AHRF_MARKET_ENROL_300,financial Risk,-1,11799.0,287.0,61.0,0.0
+106,"Total number of Marketplace enrollees, household income >300% to 400% of FPL",AHRF_MARKET_ENROL_400,financial Risk,-1,12349.0,325.0,69.0,0.0
+107,"Total number of Medicare beneficiary hospital readmission rate, fee for service",AHRF_MCR_BN_READM_RATE,financial Risk,1,0.0,18.52,20.52,44.0
+108,Percentage of days with good air quality,AHRF_PCT_GOOD_AQ,Climate Risk,-1,100.0,79.78,52.46,3.83
+109,Percentage of Medicare eligible beneficiaries enrolled in a prescription drug plan per 100 population,AHRF_PCT_PRESC_PEN,financial Risk,-1,90.0,37.82,29.08,0.3
+110,Total number of Medicare prescription drug plan enrollees,AHRF_PRESC_ENROLLMENT,financial Risk,-1,522347.0,10997.0,2758.0,13.0
+111,Preventable hospital stays rate,AHRF_PREV_HOSP_RATE,Transportation Risk,1,455.0,4659.0,5592.0,16394.0
+112,"Total number of short-term general hospital beds per 1,000 population",AHRF_ST_G_HOSP_BED_RATE,healthcare access risk,-1,164.28,1.81,0.96,0.0
+113,Total number of hospitals,AHRF_TOT_HOSPS,healthcare access risk,-1,101.0,2.0,1.0,0.0
+114,"Total number of Medicare beneficiary acute hospital readmissions, fee for service",AHRF_TOT_MCR_BN_READM,financial Risk,1,0.0,1784.0,5797.0,33194.0
+115,"Total Medicare inpatient days, short-term general hospitals",AHRF_TOT_MCR_IP_DAY_ST_G,financial Risk,1,0.0,119520.0,441706.0,2091005.0
+116,"Total Medicaid inpatient days, short-term general hospitals",AHRF_TOT_MDCD_IP_DAY_ST_G,financial Risk,1,0.0,49485.0,240216.0,1150754.0
+117,"Total actual Medicare costs, fee for service (dollars)",AHRF_TOT_MDCR_FFS_ACT_COST,financial Risk,1,57322.61,443598060.13,1501907201.07,9270137075.01
+118,"Total standardized Medicare costs, fee for service (dollars)",AHRF_TOT_MDCR_FFS_STD_COST,financial Risk,1,61283.31,423621418.97,1342522955.05,7511189643.24
+119,Total number of short-term community hospitals,AHRF_TOT_ST_COMM_HOSP,healthcare access risk,-1,80.0,2.0,1.0,0.0
+120,Total number of short-term community hospital admissions,AHRF_TOT_ST_COMM_HOSP_ADMS,healthcare access risk,1,0.0,50986.0,177663.0,956262.0
+121,Total number of short-term general hospitals,AHRF_TOT_ST_G_HOSP,healthcare access risk,-1,77.0,2.0,1.0,0.0
+122,"Total number of facilities that provide mental health services and accept Medicaid per 1,000 population",AMFAR_MEDMHFAC_RATE,Social Environmental Risk,-1,1.5699,0.0215,0.0089,0.0
+123,"Total number of facilities that provide mental health services and accept Medicaid per 1,000 population",AMFAR_MEDMHFAC_RATE,financial Risk,-1,1.5699,0.0215,0.0089,0.0
+124,"Total number of facilities that provide mental health services and accept Medicaid per 1,000 population",AMFAR_MEDMHFAC_RATE,healthcare access risk,-1,1.5699,0.0215,0.0089,0.0
+125,"Total number of substance abuse services facilities accepting Medicaid per 1,000 population",AMFAR_MEDSAFAC_RATE,Social Environmental Risk,-1,1.0127,0.0229,0.0084,0.0
+126,"Total number of substance abuse services facilities accepting Medicaid per 1,000 population",AMFAR_MEDSAFAC_RATE,healthcare access risk,-1,1.0127,0.0229,0.0084,0.0
+127,"Total number of facilities that provide mental health services per 1,000 population",AMFAR_MHFAC_RATE,Social Environmental Risk,-1,1.5699,0.025,0.0131,0.0
+128,Total number of facilities that provide mental health services and accept Medicaid,AMFAR_TOT_MEDMHFAC,Social Environmental Risk,-1,175.0,4.0,1.0,0.0
+129,Total number of facilities that provide mental health services and accept Medicaid,AMFAR_TOT_MEDMHFAC,financial Risk,-1,175.0,4.0,1.0,0.0
+130,Total number of facilities that provide mental health services and accept Medicaid,AMFAR_TOT_MEDMHFAC,healthcare access risk,-1,175.0,4.0,1.0,0.0
+131,Total number of substance abuse services facilities accepting Medicaid,AMFAR_TOT_MEDSAFAC,Social Environmental Risk,-1,215.0,5.0,1.0,0.0
+132,Total number of substance abuse services facilities accepting Medicaid,AMFAR_TOT_MEDSAFAC,healthcare access risk,-1,215.0,5.0,1.0,0.0
+133,Total number of facilities that provide mental health services,AMFAR_TOT_MHFAC,Social Environmental Risk,-1,231.0,5.0,1.0,0.0
+134,"Total number of limited service restaurants (fast food establishments) per 1,000 people",CCBP_FF_RATE,Food Security,1,0.15,0.81,0.92,6.87
+135,"Total number of full service restaurants per 1,000 people",CCBP_FSR_RATE,Food Security,-1,12.36,0.69,0.54,0.12
+136,"Total number of social associations per 1,000 people",CCBP_SA_RATE,Social Environmental Risk,-1,5.54,0.87,0.6,0.1
+137,"Total number of specialized food stores per 1,000 people",CCBP_SFS_RATE,Food Security,-1,0.6,0.05,0.04,0.01
+138,"Total number of supermarkets and other grocery (except convenience) stores per 1,000 people",CCBP_SOGS_RATE,Food Security,-1,2.1,0.16,0.12,0.04
+139,Total number of limited service restaurants (fast food establishments),CCBP_TOT_FF,Food Security,1,3.0,27.0,45.0,186.0
+140,Total number of full service restaurants,CCBP_TOT_FSR,Food Security,1,3.0,22.0,42.0,293.0
+141,Total number of social associations,CCBP_TOT_SA,Social Environmental Risk,-1,322.0,13.0,5.0,3.0
+142,"Total number of people living with diagnosed HIV at the end of the year per 100,000, Asian (ages 13 and over)",CDCAP_HIVDIAG_ASN_RATE_ABOVE13,Disease Risk,1,0.0,77.2,132.3,697.4
+143,"Total number of people living with diagnosed HIV at the end of the year per 100,000, Black non-Hispanic (ages 13 and over)",CDCAP_HIVDIAG_BLK_RATE_ABOVE13,Disease Risk,1,0.0,996.8,1402.4,13668.8
+144,"Total number of people living with diagnosed HIV at the end of the year per 100,000, Hispanic (ages 13 and over)",CDCAP_HIVDIAG_HIS_RATE_ABOVE13,Disease Risk,1,0.0,468.4,786.0,15940.1
+145,"Total number of people living with diagnosed HIV at the end of the year per 100,000, multiple races (ages 13 and over)",CDCAP_HIVDIAG_MTR_RATE_ABOVE13,Disease Risk,1,0.0,1033.5,2554.9,13241.9
+146,"Total number of males living with diagnosed HIV at the end of the year per 100,000 (ages 13 and over)",CDCAP_HIVDIAG_M_RATE_ABOVE13,Disease Risk,1,0.0,519.9,1003.2,5894.4
+147,"Total number of people living with diagnosed HIV at the end of the year per 100,000, Native Hawaiian and Other Pacific Islander (ages 13 and over)",CDCAP_HIVDIAG_NHPI_RATE_ABOVE13,Disease Risk,1,0.0,34.1,892.9,3652.4
+148,"Total number of people living with diagnosed HIV at the end of the year per 100,000 population (ages 13 and over)",CDCAP_HIVDIAG_RATE_ABOVE13,Disease Risk,1,0.0,286.3,584.6,3001.2
+149,"Total number of people living with diagnosed HIV at the end of the year per 100,000, White non-Hispanic (ages 13 and over)",CDCAP_HIVDIAG_WHT_RATE_ABOVE13,Disease Risk,1,0.0,157.3,328.7,1925.4
+150,"Total number of persons with HIV diagnosed during the year per 100,000 population (ages 13 and over)",CDCAP_HIV_RATE_ABOVE13,Disease Risk,1,0.0,11.7,21.4,167.7
+151,"Total number of tuberculosis diagnoses per 100,000 population",CDCAP_TUBERCULOSIS_RATE,Disease Risk,1,0.6,3.8,5.6,119.7
+152,"Total high blood pressure hospitalizations per 1,000 Medicare beneficiaries (ages 65 and over)",CDCA_BLOOD_HOSP_RATE_ABOVE65,Disease Risk,1,0.6,13.2,16.3,37.0
+153,"Total high blood pressure hospitalizations per 1,000 Medicare beneficiaries (ages 65 and over)",CDCA_BLOOD_HOSP_RATE_ABOVE65,financial Risk,1,0.6,13.2,16.3,37.0
+154,"Total cardiovascular disease hospitalizations per 1,000 Medicare beneficiaries (ages 65 and over)",CDCA_HEART_HOSP_RATE_ABOVE65,financial Risk,1,19.1,64.0,73.3,126.5
+155,"Total avoidable heart disease and stroke deaths per 100,000 Black non-Hispanic population (ages 74 and below)",CDCA_PREV_DTH_BLACK_RATE_BELOW74,Disease Risk,1,0.0,103.5,128.9,452.6
+156,"Total avoidable heart disease and stroke deaths per 100,000 Hispanic population (ages 74 and below)",CDCA_PREV_DTH_HISP_RATE_BELOW74,Disease Risk,1,0.0,39.3,50.1,138.5
+157,"Total avoidable heart disease and stroke deaths per 100,000 population (ages 74 and below)",CDCA_PREV_DTH_RATE_BELOW74,Disease Risk,1,13.1,61.4,80.6,210.2
+158,"Total avoidable heart disease and stroke deaths per 100,000 White non-Hispanic population (ages 74 and below)",CDCA_PREV_DTH_WHITE_RATE_BELOW74,Disease Risk,1,14.6,60.4,76.7,183.3
+159,"Total stroke hospitalizations per 1,000 Medicare beneficiaries (ages 65 and over)",CDCA_STROKE_HOSP_RATE_ABOVE65,financial Risk,1,3.2,12.3,14.2,23.6
+160,Crude prevalence of arthritis among adults aged 18 years and older (%),CDCP_ARTHRITIS_ADULT_C,Disease Risk,1,2.5,28.2,32.3,53.9
+161,Age-adjusted prevalence of current asthma among adults aged 18 years and older (%),CDCP_ASTHMA_ADULT_A,Disease Risk,1,7.2,9.8,10.6,14.3
+162,Crude prevalence of current asthma among adults aged 18 years and older (%),CDCP_ASTHMA_ADULT_C,Disease Risk,1,4.9,10.0,11.1,21.5
+163,Age-adjusted prevalence of adults aged 18 years and older with high blood pressure taking medicine for high blood pressure control (%),CDCP_BLOOD_MED_ADULT_A,Disease Risk,1,46.2,57.8,60.5,71.9
+164,Crude prevalence of adults aged 18 years and older with high blood pressure taking medicine for high blood pressure control (%),CDCP_BLOOD_MED_ADULT_C,Disease Risk,1,9.4,76.5,79.2,92.8
+165,"Age-adjusted prevalence of adults aged 18 years and older who report having been told by a doctor, nurse, or other health professional that they had high cholesterol (%)",CDCP_CHOLES_ADULT_A,Disease Risk,1,20.7,29.3,31.2,36.9
+166,"Crude prevalence of adults aged 18 years and older who report having been told by a doctor, nurse, or other health professional that they had high cholesterol (%)",CDCP_CHOLES_ADULT_C,Disease Risk,1,6.2,34.2,37.0,52.3
+167,Age-adjusted prevalence of adults aged 18 years and older who report having their cholesterol checked within the previous 5 years (%),CDCP_CHOLES_SCR_ADULT_A,Disease Risk,1,67.2,85.8,87.5,91.0
+168,Crude prevalence of adults aged 18 years and older who report having their cholesterol checked within the previous 5 years (%),CDCP_CHOLES_SCR_ADULT_C,Disease Risk,1,50.1,86.9,89.5,98.2
+169,"Age-adjusted prevalence of adults aged 18 years and older who report not having participated in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise other than regular job (%)",CDCP_NO_PHY_ACTV_ADULT_A,Lifestyle,1,12.9,28.9,33.0,51.8
+170,"Crude prevalence of adults aged 18 years and older who report not having participated in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise other than regular job (%)",CDCP_NO_PHY_ACTV_ADULT_C,Lifestyle,1,9.3,29.6,36.3,63.7
+171,"Crude prevalence of adults aged 18 years and older who report ever having been told by a doctor, nurse, or other health professional that they had chronic obstructive pulmonary disease (COPD), emphysema, or chronic bronchitis (%)",CDCP_PULMONARY_ADULT_C,Disease Risk,1,1.0,8.0,10.4,28.4
+172,Age-adjusted prevalence of adults aged 18 years and older who report usually getting less than 7 hours of sleep (%),CDCP_SLEEP_LESS7HR_ADULT_A,Lifestyle,1,25.6,37.8,40.7,49.1
+173,Crude prevalence of adults aged 18 years and older who report usually getting less than 7 hours of sleep (%),CDCP_SLEEP_LESS7HR_ADULT_C,Lifestyle,1,20.2,37.4,41.5,60.8
+174,Social Vulnerability Index: Percentile ranking for household composition theme,CDCSVI_RPL_THEME2_HH_COMP,Food Security,1,0.0,0.62,0.85,1.0
+175,Social Vulnerability Index: Percentile ranking for housing/transportation theme,CDCSVI_RPL_THEME4_HH_TRANS,Housing Challenges,1,0.0,0.57,0.83,1.0
+176,Social Vulnerability Index: Percentile ranking for housing/transportation theme,CDCSVI_RPL_THEME4_HH_TRANS,Transportation Risk,1,0.0,0.57,0.83,1.0
+177,"Total number of drug poisoning deaths per 100,000 population",CDCW_DRUG_DTH_RATE,Social Environmental Risk,1,3.73,25.85,38.73,129.57
+178,"Total number of deaths from intentional self harm per 100,000 population",CDCW_SELFHARM_DTH_RATE,Social Environmental Risk,1,4.8,16.02,20.71,130.05
+179,"Total number of deaths from transport accidents per 100,000 population",CDCW_TRANSPORT_DTH_RATE,Transportation Risk,1,2.97,14.41,21.61,127.32
+180,Total cancer incidence in the county,CDC_USCS_TOT_INC_COUNT,Disease Risk,1,16.0,12446.0,39557.0,201547.0
+181,Percentage of driving deaths involving alcohol,CHR_PCT_ALCOHOL_DRIV_DEATH,Social Environmental Risk,1,0.0,28.89,35.43,100.0
+182,Percentage of adults reporting binge or heavy drinking,CHR_PCT_EXCESS_DRINK,Lifestyle,1,6.45,20.05,22.55,31.01
+183,Percentage of population who lack adequate access to food,CHR_PCT_FOOD,Food Security,1,3.6,12.6,15.3,30.4
+184,Percentage of adults reporting 14 or more days of poor mental health per month,CHR_PCT_MENTAL_DISTRESS,Lifestyle,1,8.84,14.61,16.34,24.67
+185,Percentage of adults reporting 14 or more days of poor physical health per month,CHR_PCT_PHYSICAL_DISTRESS,Lifestyle,1,7.01,13.03,14.8,29.19
+186,Percentage of adults reporting fair or poor health (age-adjusted),CHR_PCT_POOR_HEALTH,Lifestyle,1,8.59,19.24,22.72,41.92
+187,Percentage of adults who are current smokers,CHR_PCT_SMOKING,Lifestyle,1,7.08,19.95,23.47,44.57
+188,Percentage of Local Education Authorities in a county that offer pre-school services or programs to children (ages 3–5),CRDC_PCT_COUNTY_PREK,Educational Challenges,-1,100.0,66.67,33.33,0.0
+189,Percentage of Local Education Authorities in a county that offer one or more kindergarten programs,CRDC_PCT_CTY_KGTN,Educational Challenges,-1,100.0,87.8,76.39,0.0
+190,Percentage of Local Education Authorities in a county that offer preschool to low-income families,CRDC_PCT_CTY_PSLOWINC,Educational Challenges,-1,100.0,11.11,4.35,0.0
+191,Percentage of Local Education Authorities in a county that offer preschool to low-income families,CRDC_PCT_CTY_PSLOWINC,financial Risk,-1,100.0,11.11,4.35,0.0
+192,Percentage of Local Education Authorities in a county that offer preschool to children in Title I schools,CRDC_PCT_CTY_PSTITLEI,Educational Challenges,-1,100.0,7.69,1.35,0.0
+193,Total number of Local Education Authorities in a county,CRDC_TOT_LEA,Educational Challenges,-1,342.0,8.0,2.0,1.0
+194,"Total number of incidents of rape, attempted rape, or sexual assault",CRDC_TOT_RAPE_ASSAULT,Social Environmental Risk,1,0.0,6.0,57.0,1071.0
+195,Total number of public schools in the county,CRDC_TOT_SCHOOLS,Educational Challenges,-1,1919.0,40.0,12.0,1.0
+196,Total number of students with limited English proficiency in the county,CRDC_TOT_STUD_LEP,Educational Challenges,1,0.0,3671.0,28229.0,261569.0
+197,Percentage of low access population measured at 1 mile for urban areas and 10 miles for rural areas ,FARA_PCT_LA_1_10_POP,Transportation Risk,1,0.0,36.11,78.95899999999993,100.0
+198,Percentage of low access population measured at 1 mile for urban areas and 20 miles for rural areas,FARA_PCT_LA_1_20_POP,Transportation Risk,1,0.0,41.22,85.08,100.0
+199,"Percentage of tract population who are American Indian or Alaska Native living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_AIAN,Food Security,1,0.0,0.24,0.66,100.0
+200,"Percentage of tract population who are Asian living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_ASIAN,Food Security,1,0.0,0.4,1.37,100.0
+201,"Percentage of tract population who are Black or African American living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_BLACK,Food Security,1,0.0,0.96,7.8,100.0
+202,"Percentage of tract population who are Hispanic or Latino living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_HISP,Food Security,1,0.0,2.01,6.4,100.0
+203,"Percentage of tract population who are not included in the White, Black or African American, American Indian or Alaska Native, Asian, and Native Hawaiian or Other Pacific Islander race categories or who identify as more than one race living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_MR,Food Security,1,0.0,1.82,4.49,100.0
+204,"Percentage of tract population who are White living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_WHITE,Food Security,1,0.0,75.34,96.11,100.0
+205,Percentage of low access population measured at 1/2 mile for urban areas and 10 miles for rural areas ,FARA_PCT_LA_HALF_10_POP,Transportation Risk,1,0.0,71.28,98.5,100.0
+206,Percentage of home health agencies offering physical therapy services,HHC_PCT_HHA_PHYS_THERAPY,healthcare access risk,-1,100.0,98.65,50.0,0.0
+207,Average percentage of nursing home residents in the county whose primary support is Medicaid,LTC_AVG_PCT_MEDICAID,financial Risk,-1,100.0,59.63,51.25,0.0
+208,Average percentage of nursing home residents in the county whose primary support is Medicare,LTC_AVG_PCT_MEDICARE,financial Risk,-1,100.0,10.51,6.23,0.0
+209,Average percentage of high-risk long-stay nursing home residents with pressure ulcers in the county,LTC_AVG_PCT_PRESSURE_ULCER,Lifestyle,-1,35.96,7.28,5.102000000000007,0.0
+210,Percentage of Medicare FFS beneficiaries who are Black or African American,MGV_PCT_BEN_FFS_BLACK,financial Risk,-1,77.91,3.64,0.83,0.0
+211,Percentage of Medicare FFS beneficiaries who are Hispanic,MGV_PCT_BEN_FFS_HISPANIC,financial Risk,-1,84.92,1.77,0.71,0.0
+212,Percentage of Medicare FFS beneficiaries who are non-Hispanic White,MGV_PCT_BEN_FFS_WHITE,financial Risk,-1,100.0,78.26,61.13,9.09
+213,Percentage of Medicare FFS beneficiaries who are eligible for Medicaid for at least one month,MGV_PCT_MEDICAID,financial Risk,-1,69.76,15.47,11.17,0.0
+214,Per capita Medicare E&M actual payment,MGV_PER_CAPITA_ACTUAL_EM,financial Risk,-1,1669.11,835.79,630.11,235.84
+215,Per capita Medicare FQHC/RHC actual payment,MGV_PER_CAPITA_ACTUAL_HC,financial Risk,-1,1116.98,17.11,6.56,0.0
+216,Per capita Medicare inpatient actual payment,MGV_PER_CAPITA_ACTUAL_IP,financial Risk,-1,11196.82,3075.86,2658.67,1246.15
+217,Per capita Medicare outpatient actual payment,MGV_PER_CAPITA_ACTUAL_OP,financial Risk,-1,11136.86,1595.71,1324.46,385.95
+218,Per capita Medicare post acute care actual payment,MGV_PER_CAPITA_ACTUAL_PA,financial Risk,-1,9058.93,1371.72,1049.38,0.0
+219,Per capita Medicare E&M standardized payment,MGV_PER_CAPITA_STD_EM,financial Risk,-1,1583.4,851.19,647.86,235.02
+220,Per capita Medicare FQHC/RHC standardized payment,MGV_PER_CAPITA_STD_HC,financial Risk,-1,1260.51,17.46,6.84,0.0
+221,Per capita Medicare inpatient standardized payment,MGV_PER_CAPITA_STD_IP,financial Risk,-1,9412.05,2553.18,2213.6,797.63
+222,Per capita Medicare outpatient standardized payment,MGV_PER_CAPITA_STD_OP,financial Risk,-1,10774.33,1571.46,1264.99,368.8
+223,Per capita Medicare post acute care standardized payment,MGV_PER_CAPITA_STD_PA,financial Risk,-1,10336.94,1443.97,1090.1819999999993,0.0
+224,Total number of Medicare FFS beneficiaries,MGV_TOT_BEN_FFS,financial Risk,-1,566256.0,15179.0,3726.0,13.0
+225,Total number of Medicare beneficiaries with Part A and Part B,MGV_TOT_BEN_PART_A_B,financial Risk,-1,1389045.0,27747.0,6029.0,14.0
+226,Minority Health Social Vulnerability Index: Percentile ranking for household composition theme,MHSVI_RPL_THEME2_HH_COMP,Food Security,1,0.0,0.4,0.71,1.0
+227,Minority Health Social Vulnerability Index: Percentile ranking for household composition theme,MHSVI_RPL_THEME2_HH_COMP,Housing Challenges,1,0.0,0.4,0.71,1.0
+228,Minority Health Social Vulnerability Index: Percentile ranking for housing/transportation theme,MHSVI_RPL_THEME4_HH_TRANS,Transportation Risk,1,0.0,0.71,0.88,1.0
+229,Minority Health Social Vulnerability Index: Percentile ranking for housing/transportation theme,MHSVI_RPL_THEME4_HH_TRANS,Housing Challenges,1,0.0,0.71,0.88,1.0
+230,Minority Health Social Vulnerability Index: Percentile ranking for health care infrastructure/access theme,MHSVI_RPL_THEME5_HCI_ACCESS,Transportation Risk,1,0.0,0.5,0.72,1.0
+231,Minority Health Social Vulnerability Index: Percentile ranking for health care infrastructure/access theme,MHSVI_RPL_THEME5_HCI_ACCESS,healthcare access risk,-1,1.0,0.37,0.17,0.0
+232,Minority Health Social Vulnerability Index: Percentile ranking for medical vulnerability theme,MHSVI_RPL_THEME6_MV,healthcare access risk,-1,1.0,0.17,0.06,0.0
+233,Prevalence of anxiety disorders among Medicare (dual and non-dual) beneficiaries,MMD_ANXIETY_DISD,Lifestyle,1,0.0,19.0,22.0,36.0
+234,Prevalence of anxiety disorders among Medicare (dual and non-dual) beneficiaries,MMD_ANXIETY_DISD,financial Risk,1,0.0,19.0,22.0,36.0
+235,Prevalence of bipolar disorder among Medicare (dual and non-dual) beneficiaries,MMD_BIPOLAR_DISD,financial Risk,1,0.0,3.0,4.0,11.0
+236,Prevalence of depressive disorders among Medicare (dual and non-dual) beneficiaries,MMD_DEPR_DISD,Social Environmental Risk,1,0.0,18.0,20.0,29.0
+237,Prevalence of depressive disorders among Medicare (dual and non-dual) beneficiaries,MMD_DEPR_DISD,financial Risk,1,0.0,18.0,20.0,29.0
+238,"Emergency department visits per 1,000 American Indian or Alaska Native Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_AIAN_RATE,financial Risk,1,0.0,934.0,1224.0,5462.0
+239,"Emergency department visits per 1,000 Asian or Pacific Islander Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_ASIAN_RATE,financial Risk,1,0.0,359.0,464.0,3636.0
+240,"Emergency department visits per 1,000 Black Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_BLACK_RATE,financial Risk,1,0.0,863.0,1008.0,6500.0
+241,"Emergency department visits per 1,000 female Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_F_RATE,financial Risk,1,29.0,566.0,651.0,1517.0
+242,"Emergency department visits per 1,000 Hispanic Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_HISP_RATE,financial Risk,1,0.0,623.0,777.0,2867.0
+243,"Emergency department visits per 1,000 Medicare only beneficiaries",MMD_ED_VISITS_MED_RATE,financial Risk,1,0.0,462.0,521.0,1111.0
+244,"Emergency department visits per 1,000 male Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_M_RATE,financial Risk,1,45.0,556.0,630.0,1218.0
+245,"Emergency department visits per 1,000 other race Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_OTHER_RATE,financial Risk,1,0.0,454.0,607.0,2615.0
+246,"Emergency department visits per 1,000 White Medicare (dual and non-dual) beneficiaries",MMD_ED_VISITS_WHITE_RATE,financial Risk,1,0.0,529.0,598.0,1156.0
+247,Prevalence of the overarching Opioid Use Disorder (OUD) indicator among Medicare (dual and non-dual) beneficiaries,MMD_OUD_IND,financial Risk,1,0.0,2.0,3.0,12.0
+248,Prevalence of personality disorders among Medicare (dual and non-dual) beneficiaries,MMD_PERSONALITY_DISD,Social Environmental Risk,1,0.0,1.0,2.0,7.0
+249,Prevalence of personality disorders among Medicare (dual and non-dual) beneficiaries,MMD_PERSONALITY_DISD,financial Risk,1,0.0,1.0,2.0,7.0
+250,Prevalence of Medicare (dual and non-dual) beneficiaries with three or more claims-based conditions,MMD_THREE_OR_MORE_COND,financial Risk,-1,74.0,56.0,49.0,20.0
+251,Total number of Medicare Advantage enrollees in the county,MP_MEDICARE_ADVTG_ENROLLED,financial Risk,-1,784933.0,10301.0,1697.0,11.0
+252,Total number of Medicare eligibles in the county,MP_MEDICARE_ELIGIBLES,financial Risk,-1,1515544.0,28510.0,6147.0,16.0
+253,Percentage of Medicare eligible beneficiaries enrolled in a Medicare Advantage plan per 100 population,MP_PCT_ADVTG_PEN,financial Risk,-1,96.59,35.3,22.18,0.38
+254,Maximum number of consecutive weeks of cumulative moderate drought or worse per year,NEPHTN_MAXDROUGHT,Climate Risk,1,0.0,14.0,25.0,75.0
+255,Total number of weeks of cumulative moderate drought or worse per year,NEPHTN_NUMDROUGHT,Climate Risk,1,0.0,31.0,55.0,106.0
+256,Estimated amount of damage to property incurred by the storm events during the year (Dollar),NOAAS_PROPERTY_DAMAGE,Climate Risk,1,0.0,145000.0,1301000.0,7000068000.0
+257,Estimated amount of damage to property incurred by the storm events during the year (Dollar),NOAAS_PROPERTY_DAMAGE,Housing Challenges,1,0.0,145000.0,1301000.0,7000068000.0
+258,Total number of storm events,NOAAS_TOT_STORMEVENT,Climate Risk,1,1.0,29.0,67.0,466.0
+259,Percentage of clinicians who accept Medicare Approved Amounts in full,PC_PCT_MEDICARE_APPRVD_FULL_AMT,financial Risk,-1,100.0,97.04,95.0,0.0
+260,Percentage of clinicians who may accept the Medicare Approved Amounts,PC_PCT_MCARE_MAY_ACPT_APPRVD_AMT,financial Risk,-1,100.0,2.16,1.05,0.0
+261,"Distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted ZIP centroids",POS_DIST_ALC,Transportation Risk,1,0.0,10.03,24.94,469.88
+262,"Distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted tract centroids",POS_DIST_ALC_TRACT,Transportation Risk,1,0.03,9.93,24.76,468.73
+263,"Distance in miles to the nearest health clinic (FQHC, RHC), calculated using population weighted ZIP centroids",POS_DIST_CLINIC,Transportation Risk,1,0.0,3.82,8.91,391.69
+264,"Total number of home health agencies per 1,000 population",POS_HHA_RATE,healthcare access risk,-1,2.31,0.05,0.02,0.0
+265,"Maximum distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted tract centroids in the county",POS_MAX_DIST_ALC,Transportation Risk,1,0.76,23.11,37.72,468.73
+266,"Mean distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted tract centroids in the county",POS_MEAN_DIST_ALC,Transportation Risk,1,0.69,8.21,23.34,468.73
+267,"Median distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted tract centroids in the county",POS_MEDIAN_DIST_ALC,Transportation Risk,1,0.61,6.91,23.26,468.73
+268,"Minimum distance in miles to the nearest hospital with alcohol and drug abuse inpatient care, calculated using population weighted tract centroids in the county",POS_MIN_DIST_ALC,Transportation Risk,1,0.02,0.62,16.18,468.73
+269,Percentage of hospitals that are private for-profit hospitals,POS_PCT_HOSP_FOR_PROFIT,healthcare access risk,1,0.0,66.38,77.78,100.0
+270,Percentage of hospitals that are private not-for-profit hospitals,POS_PCT_HOSP_NON_PROFIT,healthcare access risk,-1,100.0,28.57,17.24,0.0
+271,Total number of home health agencies,POS_TOT_HHA,healthcare access risk,-1,1548.0,6.0,2.0,0.0
+272,Total number of hospitals with emergency department,POS_TOT_HOSP_ED,healthcare access risk,-1,121.0,3.0,1.0,0.0
+273,Total number of hospitals with medical-surgical ICU,POS_TOT_HOSP_MEDSURG_ICU,healthcare access risk,-1,173.0,2.0,1.0,0.0
+274,Estimated percentage of uninsured population for all income levels (under 65 years),SAHIE_PCT_UNINSURED64,financial Risk,1,2.4,10.6,14.9,35.8
+275,Estimated median household income,SAIPE_MEDIAN_HH_INCOME,financial Risk,-1,160305.0,59259.0,50235.0,22901.0
+276,Percentage of renter-occupied housing units with more than one occupant per room,ACS_PCT_1UP_RENT_1ROOM,Housing Challenges,-1,100.0,9.13,0.0,0.0
+277,Percentage of households with other type of computer only,ACS_PCT_HH_OTHER_COMP_ONLY,Technology Access Risk,-1,13.35,0.64,0.0,0.0
+278,"Percentage of occupied housing units with bottled, tank, or LP gas",ACS_PCT_HU_BOT_TANK_LP_GAS,Housing Challenges,-1,100.0,13.35,0.0,0.0
+279,Percentage of occupied housing units with coal or coke heating,ACS_PCT_HU_COAL,Housing Challenges,-1,26.13,2.01,0.0,0.0
+280,Percentage of occupied housing units with fuel oil heating,ACS_PCT_HU_OIL,Housing Challenges,-1,100.0,9.78,0.0,0.0
+281,Percentage of occupied housing units with other heating fuel,ACS_PCT_HU_OTHER,Housing Challenges,-1,100.0,1.8789999999999416,0.0,0.0
+282,Percentage of occupied housing units with solar energy,ACS_PCT_HU_SOLAR,Housing Challenges,-1,48.02,1.09,0.0,0.0
+283,Percentage of occupied housing units with wood heating,ACS_PCT_HU_WOOD,Housing Challenges,-1,100.0,6.81,0.0,0.0
+284,Percentage of population with direct-purchase and Medicare health insurance (between ages 35 and 64),ACS_PCT_PRIVATE_MDCR_35_64,financial Risk,-1,57.14,0.62,0.0,0.0
+285,"Percentage of workers taking public transportation, excluding taxicab (ages 16 and over)",ACS_PCT_PUBL_TRANSIT,Transportation Risk,-1,100.0,5.29,0.0,0.0
+286,Percentage of workers who use public transportation with < 15-minute commute time (ages 16 and over),ACS_PCT_PUB_COMMT_15MIN,Transportation Risk,-1,100.0,52.00799999999988,0.0,0.0
+287,Percentage of workers who use public transportation with 15- to 29-minute commute time (ages 16 and over),ACS_PCT_PUB_COMMT_29MIN,Transportation Risk,-1,100.0,51.18399999999987,0.0,0.0
+288,"Total number of airborne infection isolation rooms in short-term, non-general, and long-term hospitals per 1,000 population",AHRF_ARBRNE_STNGLT_ISO_ROOM_RATE,healthcare access risk,-1,0.6,0.03,0.0,0.0
+289,"Total number of airborne infection isolation rooms in short-term general hospitals per 1,000 population",AHRF_ARBRNE_ST_G_ISO_ROOMS_RATE,healthcare access risk,-1,4.52,0.17,0.0,0.0
+290,"Total number of short-term general hospitals with cardiac intensive care per 1,000 population",AHRF_CARDIAC_IC_HOSP_RATE,healthcare access risk,-1,0.43,0.01,0.0,0.0
+291,"Total number of community health centers, grantees only, per 1,000 population",AHRF_COM_HEALTH_GRANT_RATE,healthcare access risk,-1,6.28,0.05,0.0,0.0
+292,"Total number of hospitals with mobile health services per 1,000 population",AHRF_HOSP_MOBILE_RATE,Transportation Risk,-1,0.36,0.01,0.0,0.0
+293,"Total number of long-term hospitals per 1,000 population",AHRF_LT_HOSP_RATE,healthcare access risk,-1,0.65,0.01,0.0,0.0
+294,"Total number of short-term general hospitals with medical surgical intensive care per 1,000 population",AHRF_MEDSURGIC_HOSP_RATE,healthcare access risk,-1,0.75,0.01,0.0,0.0
+295,"Total number of short-term general hospitals with neonatal intensive care per 1,000 population",AHRF_NEONATALIC_HOSP_RATE,healthcare access risk,-1,0.75,0.01,0.0,0.0
+296,"Total number of operating rooms in short-term general hospitals per 1,000 population",AHRF_OPRT_ROOM_RATE,healthcare access risk,-1,4.52,0.14,0.0,0.0
+297,"Total number of short-term non-general hospitals per 1,000 population",AHRF_ST_N_G_HOSP_RATE,healthcare access risk,-1,0.19,0.01,0.0,0.0
+298,"Total number of airborne infection isolation rooms in short-term, non-general, and long-term hospitals",AHRF_TOT_ARBRNE_STNGLT_ISO_ROOM,healthcare access risk,-1,232.0,46.0,0.0,0.0
+299,Total number of airborne infection isolation rooms in short-term general hospitals,AHRF_TOT_ARBRNE_ST_G_ISO_ROOMS,healthcare access risk,-1,804.0,121.0,0.0,0.0
+300,Total number of short-term general hospitals with cardiac intensive care,AHRF_TOT_CARDIAC_IC_HOSP,healthcare access risk,-1,27.0,4.0,0.0,0.0
+301,"Total number of community health centers, grantees only",AHRF_TOT_COM_HEALTH_GRANT,healthcare access risk,-1,416.0,19.0,0.0,0.0
+302,Total number of hospitals with mobile health services,AHRF_TOT_HOSP_MOBILE,Transportation Risk,-1,9.0,3.0,0.0,0.0
+303,Total number of short-term general hospitals with neonatal intensive care,AHRF_TOT_NEONATALIC_HOSP,healthcare access risk,-1,32.0,4.0,0.0,0.0
+304,Total number of operating rooms in short-term general hospitals,AHRF_TOT_OPRT_ROOM,healthcare access risk,-1,598.0,89.0,0.0,0.0
+305,Total number of short-term non-general hospitals,AHRF_TOT_ST_N_G_HOSP,healthcare access risk,-1,36.0,6.0,0.0,0.0
+306,Total number of designated toxic sites not under control,AHRF_TXC_SITE_NO_CNTRL,Social Environmental Risk,1,0.0,0.0,1.0,4.0
+307,"Total number of substance abuse treatment facilities with all three medication assisted treatment services per 1,000 population",AMFAR_AMATFAC_RATE,Social Environmental Risk,-1,0.1588,0.0038,0.0,0.0
+308,"Total number of substance abuse facilities offering hepatitis C screening per 1,000 population",AMFAR_HCVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.0212,0.0,0.0
+309,"Total number of substance abuse facilities offering both HIV test and hepatitis C screening per 1,000 population",AMFAR_HIVHCVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.0185,0.0,0.0
+310,"Total number of substance abuse facilities offering HIV testing per 1,000 population",AMFAR_HIVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.0207,0.0,0.0
+311,"Total number of substance abuse treatment facilities offering all three medication assisted treatment services that accept Medicaid per 1,000 population",AMFAR_MEDAMATFAC_RATE,Social Environmental Risk,-1,0.1588,0.0038,0.0,0.0
+312,"Total number of substance abuse facilities offering hepatitis C screening and accept Medicaid per 1,000 population",AMFAR_MEDHCVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.0173,0.0,0.0
+313,"Total number of substance abuse facilities offering hepatitis C screening and accept Medicaid per 1,000 population",AMFAR_MEDHCVTFAC_RATE,healthcare access risk,-1,0.5112,0.0173,0.0,0.0
+314,"Total number of substance abuse facilities offering both HIV test and hepatitis C screening and accept Medicaid per 1,000 population",AMFAR_MEDHIVHCVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.0152,0.0,0.0
+315,"Total number of substance abuse facilities offering both HIV test and hepatitis C screening and accept Medicaid per 1,000 population",AMFAR_MEDHIVHCVTFAC_RATE,healthcare access risk,-1,0.5112,0.0152,0.0,0.0
+316,"Total number of substance abuse facilities offering HIV testing and accept Medicaid per 1,000 population",AMFAR_MEDHIVTFAC_RATE,Social Environmental Risk,-1,0.5112,0.017,0.0,0.0
+317,"Total number of substance abuse facilities offering HIV testing and accept Medicaid per 1,000 population",AMFAR_MEDHIVTFAC_RATE,healthcare access risk,-1,0.5112,0.017,0.0,0.0
+318,Total number of substance abuse treatment facilities with all three medication assisted treatment services,AMFAR_TOT_AMATFAC,Social Environmental Risk,-1,19.0,3.0,0.0,0.0
+319,Total number of substance abuse facilities offering hepatitis C screening,AMFAR_TOT_HCVTFAC,Social Environmental Risk,-1,118.0,13.0,0.0,0.0
+320,Total number of substance abuse facilities offering both HIV test and hepatitis C screening,AMFAR_TOT_HIVHCVTFAC,Social Environmental Risk,-1,111.0,13.0,0.0,0.0
+321,Total number of substance abuse facilities offering HIV testing,AMFAR_TOT_HIVTFAC,Social Environmental Risk,-1,133.0,15.0,0.0,0.0
+322,Total number of substance abuse treatment facilities offering all three medication assisted treatment services that accept Medicaid,AMFAR_TOT_MEDAMATFAC,Social Environmental Risk,-1,19.0,3.0,0.0,0.0
+323,Total number of substance abuse facilities offering hepatitis C screening and accept Medicaid,AMFAR_TOT_MEDHCVTFAC,Social Environmental Risk,-1,97.0,11.0,0.0,0.0
+324,Total number of substance abuse facilities offering both HIV test and hepatitis C screening and accept Medicaid,AMFAR_TOT_MEDHIVHCVTFAC,Social Environmental Risk,-1,96.0,10.0,0.0,0.0
+325,Total number of substance abuse facilities offering both HIV test and hepatitis C screening and accept Medicaid,AMFAR_TOT_MEDHIVHCVTFAC,healthcare access risk,-1,96.0,10.0,0.0,0.0
+326,Total number of substance abuse facilities offering HIV testing and accept Medicaid,AMFAR_TOT_MEDHIVTFAC,Social Environmental Risk,-1,111.0,11.0,0.0,0.0
+327,Total number of substance abuse facilities offering HIV testing and accept Medicaid,AMFAR_TOT_MEDHIVTFAC,healthcare access risk,-1,111.0,11.0,0.0,0.0
+328,"Total number of people living with diagnosed HIV at the end of the year per 100,000, American Indian and Alaska Native (ages 13 and over)",CDCAP_HIVDIAG_AIAN_RATE_ABOVE13,Disease Risk,1,0.0,0.0,400.8,1117.3
+329,Percentage of Local Education Authorities in a county that offer early childhood services to children (ages 0-2),CRDC_PCT_COUNTY_ECE,Educational Challenges,-1,100.0,40.0,0.0,0.0
+330,Total number of alternative schools in the county,CRDC_TOT_ALT,Educational Challenges,-1,124.0,10.0,0.0,0.0
+331,Total number of special education schools in the county,CRDC_TOT_SPEDS,Educational Challenges,-1,83.0,7.0,0.0,0.0
+332,"Percentage of tract population who are Native Hawaiian or Other Pacific Islander living more than 1 mile from the nearest supermarket, supercenter, or large grocery store",FARA_PCT_LA_1_NHPI,Food Security,1,0.0,0.0,0.08,48.89
+333,Indicator for low income and low access tract measured at 1 mile for urban areas and 20 miles for rural areas,FARA_TRACT_LILA_1_20,financial Risk,0,1.0,1.0,0.0,0.0
+334,Indicator for low income and low access tract using vehicle access or low income and low access tract measured at 20 miles,FARA_TRACT_LILA_VEHICLE_20,Transportation Risk,0,1.0,1.0,0.0,0.0
+335,Indicator for low income and low access tract using vehicle access or low income and low access tract measured at 20 miles,FARA_TRACT_LILA_VEHICLE_20,financial Risk,0,1.0,1.0,0.0,0.0
+336,Percentage of all farmers' markets that accept SFMNP benefits,FEA_PCT_FARMERS_MARKET_SFMNP,Food Security,-1,100.0,61.67,0.0,0.0
+337,Percentage of all farmers' markets that accept SNAP benefits,FEA_PCT_FARMERS_MARKET_SNAP,Food Security,-1,100.0,55.0,0.0,0.0
+338,Total number of food banks (from Feeding America's nationwide network of food banks),FEA_TOT_FOODBANK,Food Security,-1,1.0,1.0,0.0,0.0
+339,Medically Underserved Areas (MUAs) - County,HRSA_MUA_COUNTY,healthcare access risk,1,0.0,0.0,1.0,1.0
+340,Total number of Indian Health Service health care facilities,IHS_HEALTH_FACILITY,healthcare access risk,-1,49.0,2.0,0.0,0.0
+341,"Total number of Indian Health Service health care facilities per 1,000 population",IHS_HEALTH_FACILITY_RATE,healthcare access risk,-1,12.98,0.05,0.0,0.0
+342,Percentage of days with PM2.5 levels over the national ambient air quality standard (monitored values only),NEPHTN_PCT_MONPD_PM25,Climate Risk,1,0.0,0.0,2.7,17.4
+343,Total number of deaths directly caused by storm events during the year,NOAAS_TOT_DEATHS_DIRECT,Climate Risk,1,0.0,0.0,3.0,48.0
+344,Total number of deaths indirectly caused by storm events during the year,NOAAS_TOT_DEATHS_INDIRECT,Climate Risk,1,0.0,0.0,1.0,28.0
+345,Total number of heat events,NOAAS_TOT_HEAT_EVENTS,Climate Risk,1,0.0,0.0,6.0,63.0
+346,Total number of injuries directly caused by storm events during the year,NOAAS_TOT_INJURIES_DIRECT,Climate Risk,1,0.0,0.0,6.0,173.0
+347,Total number of injuries indirectly caused by storm events during the year,NOAAS_TOT_INJURIES_INDIRECT,Climate Risk,1,0.0,0.0,14.0,100.0
+348,Total number of wildfires,NOAAS_TOT_WILDFIRE,Climate Risk,1,0.0,0.0,5.0,45.0
+349,"Total number of Community Mental Health Centers per 1,000 population",POS_CMHC_RATE,Social Environmental Risk,-1,0.4,0.02,0.0,0.0
+350,"Total number of hospitals with alcohol and/or drug abuse inpatient care per 1,000 population",POS_HOSP_ALC_RATE,Social Environmental Risk,-1,1.0,0.01,0.0,0.0
+351,"Total number of hospitals with alcohol and/or drug abuse inpatient care per 1,000 population",POS_HOSP_ALC_RATE,healthcare access risk,-1,1.0,0.01,0.0,0.0
+352,"Total number of hospitals with ambulance services per 1,000 population",POS_HOSP_AMBULANCE_RATE,Transportation Risk,-1,0.46,0.04,0.0,0.0
+353,"Total number of hospitals with pediatric ICU per 1,000 population",POS_HOSP_PED_ICU_RATE,healthcare access risk,-1,0.25,0.01,0.0,0.0
+354,"Percentage of hospitals that are government (federal, state, local, district) hospitals",POS_PCT_HOSP_GOV,healthcare access risk,-1,100.0,6.25,0.0,0.0
+355,"Total number of Rural Health Clinics (RHCs) per 1,000 population",POS_RHC_RATE,healthcare access risk,-1,2.87,0.2,0.0,0.0
+356,Total number of Community Mental Health Centers,POS_TOT_CMHC,Social Environmental Risk,-1,188.0,4.0,0.0,0.0
+357,Total number of hospitals with alcohol and/or drug abuse inpatient care,POS_TOT_HOSP_ALC,Social Environmental Risk,-1,41.0,7.0,0.0,0.0
+358,Total number of hospitals with alcohol and/or drug abuse inpatient care,POS_TOT_HOSP_ALC,healthcare access risk,-1,41.0,7.0,0.0,0.0
+359,Total number of hospitals with ambulance services,POS_TOT_HOSP_AMBULANCE,Transportation Risk,-1,2.0,1.0,0.0,0.0
+360,Total number of hospitals with pediatric ICU,POS_TOT_HOSP_PED_ICU,healthcare access risk,-1,15.0,3.0,0.0,0.0
+361,Total number of Rural Health Clinics (RHCs),POS_TOT_RHC,healthcare access risk,-1,74.0,6.0,0.0,0.0

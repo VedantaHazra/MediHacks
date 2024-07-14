@@ -1,0 +1,328 @@
+,PREFIX,FIRST,LAST,SUFFIX,MAIDEN,RACE,ETHNICITY,GENDER,ADDRESS,ZIP,START,Arthritis Risk,Alcohol/Drug Abuse,Air Quality,Lung Diseases,Heart Diseases,Physical Health,Mental Health,Personality Disorder,Housing Challenges,Transportation Risk,Social Associations
+0,Mrs.,Lore422,Leannon79,,Littel644,white,nonhispanic,F,522 Graham Viaduct,1001.0,2019-09-16 18:40:51+00:00,0,1,0,1,0,0,1,0,1,0,0
+1,Mr.,Wilfredo622,Bernhard322,,Metz686,white,nonhispanic,M,1007 Gusikowski Ferry,1005.0,2019-03-15 10:19:06+00:00,0,0,0,0,0,0,1,0,0,0,0
+2,Mr.,Jamaal34,VonRueden376,,Brekke496,white,nonhispanic,M,309 Pouros Park,1007.0,2019-02-20 18:00:22+00:00,1,1,0,1,0,0,1,0,0,0,0
+3,Mrs.,Daria61,Brakus656,,Strosin214,white,nonhispanic,F,132 Howe Dale Suite 15,1011.0,2019-05-17 14:46:26+00:00,1,0,0,1,0,0,1,0,0,0,0
+4,Mrs.,Susie661,Crist667,,Lueilwitz711,white,nonhispanic,F,264 Mitchell Way,1013.0,2019-01-24 08:06:10+00:00,1,1,0,1,1,1,1,0,0,0,1
+5,Mr.,Brendon298,Jacobs452,PhD,Sipes176,white,nonhispanic,M,107 Windler Lane Unit 16,1020.0,2020-08-20 19:17:21+00:00,1,1,0,1,1,1,1,0,1,0,1
+6,Mr.,Brady998,Bayer639,,Mills423,white,nonhispanic,M,646 Weimann Spur,1022.0,2020-01-31 02:30:39+00:00,0,1,0,1,1,1,1,0,0,0,1
+7,Mrs.,Luis Miguel102,Beltrán716,,Hamill307,white,nonhispanic,F,819 Lang Center Suite 52,1027.0,2020-11-07 22:10:52+00:00,0,1,0,1,1,0,1,0,0,0,1
+8,Mr.,Tim88,Fay398,,Smitham825,white,nonhispanic,M,793 Skiles Rue Suite 72,1030.0,2020-10-28 17:30:06+00:00,1,1,0,1,1,0,1,0,0,0,1
+9,Mr.,Melvin857,Hoeger474,,Eichmann909,white,nonhispanic,M,413 Prohaska Ville,1033.0,2019-12-18 05:07:28+00:00,1,0,0,1,1,0,1,0,0,0,1
+10,Mrs.,Eneida722,Russel238,,Wuckert783,white,nonhispanic,F,868 Cremin Byway,1038.0,2019-08-24 19:16:49+00:00,0,0,0,1,0,0,1,0,0,0,1
+11,Mr.,Nicolás801,Leyva523,,Amaya149,white,hispanic,M,106 Brekke Dale Unit 40,1040.0,2019-06-06 20:41:40+00:00,1,1,0,1,1,0,1,0,0,0,1
+12,Mr.,Dewayne363,Lubowitz58,,Greenholt190,white,nonhispanic,M,1088 Adams Bypass Apt 88,1050.0,2019-12-11 00:49:20+00:00,0,0,0,0,0,0,1,0,0,0,0
+13,Mr.,Wesley533,Marks830,,Lowe577,white,nonhispanic,M,294 Kerluke Quay,1053.0,2020-12-02 03:00:08+00:00,0,0,0,0,1,0,1,0,1,0,0
+14,Mr.,Cordell41,Barton704,,,white,nonhispanic,M,1051 Haley Viaduct,1057.0,2019-03-12 17:59:17+00:00,0,1,0,1,0,0,1,0,0,0,0
+15,Mr.,Ellsworth48,Vandervort697,,Jakubowski832,white,nonhispanic,M,772 Huel Passage Apt 70,1059.0,2019-12-05 00:24:45+00:00,1,1,0,1,1,0,1,0,0,0,1
+16,Mr.,Junior695,Bogan287,,Rowe323,white,nonhispanic,F,100 McLaughlin Course Suite 57,1060.0,2019-05-16 05:45:00+00:00,0,0,0,1,0,0,1,0,0,0,1
+17,Mr.,Mack300,Howell947,,Mertz280,white,nonhispanic,M,834 Metz Boulevard,1062.0,2019-05-14 10:52:25+00:00,0,1,0,1,0,0,1,0,0,0,1
+18,Mrs.,Mildred587,Deckow585,,Shanahan202,white,nonhispanic,F,298 Beier Stravenue Unit 35,1063.0,2019-10-05 21:44:45+00:00,0,1,0,1,0,0,1,0,0,0,0
+19,Mr.,Alfredo17,Lira652,,,white,hispanic,M,853 Abernathy Green,1069.0,2019-06-15 19:25:35+00:00,0,0,0,1,0,0,1,0,0,0,1
+20,Mrs.,Jazmine498,Jakubowski832,,Heathcote539,white,nonhispanic,F,329 Carroll Knoll Unit 74,1071.0,2019-03-05 09:23:43+00:00,0,0,0,0,0,0,1,0,0,0,0
+21,Mr.,Odis959,Walsh511,,Vela532,white,hispanic,M,1001 Witting Branch,1079.0,2019-10-31 11:07:36+00:00,0,1,0,1,0,0,1,0,0,0,1
+22,Mr.,Beau391,Kuhn96,,Kuphal363,white,hispanic,F,393 Connelly Divide,1080.0,2019-03-04 06:18:02+00:00,1,0,0,0,0,0,1,0,0,0,0
+23,Mrs.,Effie9,Brakus656,,Halvorson124,white,nonhispanic,F,328 Beer Crossroad,1082.0,2019-02-01 07:35:40+00:00,1,1,0,0,0,0,1,0,0,0,1
+24,Ms.,Jannie509,Schmidt332,,,white,nonhispanic,F,304 Thompson Stravenue,1083.0,2019-05-02 23:17:08+00:00,0,0,0,0,0,0,1,0,0,0,0
+25,Mrs.,Norah104,Sipes176,PhD,Little434,white,nonhispanic,F,422 Leuschke Trailer,1085.0,2019-01-26 22:09:23+00:00,1,1,0,1,1,1,1,0,0,0,1
+26,Mrs.,Shakira391,Lehner980,,Kilback373,white,nonhispanic,F,1052 Prohaska Forge Apt 58,1086.0,2019-06-24 19:40:53+00:00,1,1,0,1,0,0,1,0,0,0,1
+27,Mrs.,Faustino767,Larson43,,Carter549,white,nonhispanic,F,683 Walker Dam Suite 54,1089.0,2020-11-17 00:39:29+00:00,1,1,0,1,1,0,1,0,0,0,1
+28,Mr.,Fabian647,Kling921,,Tillman293,white,nonhispanic,M,783 Rowe Light Unit 42,1095.0,2020-12-04 09:59:53+00:00,0,1,0,1,1,0,1,0,0,0,1
+29,Mr.,Kirstin394,Franecki195,,Johns824,white,nonhispanic,F,1096 Hodkiewicz Rapid Suite 76,1103.0,2019-03-09 19:45:17+00:00,0,1,0,1,1,0,1,0,0,0,1
+30,Mr.,Eleonora961,Sipes176,,Hintz995,white,nonhispanic,M,255 Mante Gateway Suite 59,1104.0,2020-09-29 21:41:16+00:00,1,1,0,1,0,1,1,0,0,0,0
+31,Mr.,Scot349,Hackett68,,Schmitt836,white,nonhispanic,M,724 Gleichner Course Apt 71,1105.0,2019-09-07 13:48:19+00:00,1,1,0,1,1,0,1,0,0,0,1
+32,Mr.,Lloyd546,Durgan499,MD,Muñoz828,white,nonhispanic,M,201 Senger Promenade,1106.0,2019-05-01 09:35:58+00:00,1,1,0,1,1,0,1,0,0,0,1
+33,Mrs.,Cristina921,Medina536,,Delacrúz637,white,hispanic,F,1046 Murray Alley,1107.0,2019-07-13 08:11:48+00:00,1,1,0,1,1,1,1,0,0,0,1
+34,Mr.,Trudie215,Will178,,Feil794,white,nonhispanic,M,237 Bednar Vale Suite 41,1108.0,2020-10-08 14:32:00+00:00,0,1,0,1,1,0,1,0,1,0,1
+35,Mr.,Michael441,Swaniawski813,,King743,white,nonhispanic,M,312 Nitzsche Manor Unit 30,1109.0,2019-09-13 23:40:08+00:00,0,1,0,1,0,0,1,0,0,0,1
+36,Mr.,Tomas436,Crooks415,,Munguía264,white,nonhispanic,M,417 Schumm Port,1118.0,2019-04-30 10:31:39+00:00,0,1,0,1,0,0,1,0,0,0,1
+37,Mrs.,William805,Renner328,,Terry864,white,nonhispanic,F,451 Breitenberg Passage,1119.0,2019-07-14 07:17:44+00:00,1,1,0,1,1,0,1,0,0,0,1
+38,Mr.,Gabriel934,Barrientos891,,Kuhic920,white,nonhispanic,M,997 Nicolas Ferry Suite 4,1128.0,2019-05-26 05:38:43+00:00,0,1,0,1,1,0,1,0,0,0,1
+39,Mrs.,Marcelle381,Gleichner915,,MacGyver246,white,nonhispanic,F,731 Schmitt Light Apt 83,1129.0,2020-09-14 14:47:53+00:00,0,1,0,1,1,0,1,0,0,0,1
+40,Mr.,Gilbert263,Quigley282,,Koch169,white,nonhispanic,M,356 O'Reilly Approach,1151.0,2019-10-15 01:38:44+00:00,1,1,0,1,1,0,1,0,0,0,1
+41,Mr.,Lincoln623,Yost751,,Castellanos521,white,nonhispanic,M,905 Roob Key Suite 56,1199.0,2019-03-27 20:43:11+00:00,1,1,0,1,0,0,1,0,0,0,1
+42,Ms.,Felica690,Pouros728,PhD,Bednar518,white,nonhispanic,F,942 Schmitt Route,1201.0,2020-09-10 18:54:13+00:00,1,1,0,1,1,0,1,0,0,0,1
+43,Mrs.,Hugo693,Ziemann98,,Carroll471,white,nonhispanic,F,396 Parker Park,1220.0,2020-04-18 07:35:46+00:00,0,1,0,0,0,0,1,0,0,0,1
+44,Mrs.,Neoma676,Ullrich385,,Hyatt152,white,nonhispanic,F,121 Gottlieb Orchard Unit 19,1225.0,2020-05-18 13:49:37+00:00,1,0,0,0,0,0,1,0,0,0,0
+45,Mr.,Nicky270,Hills818,,Stoltenberg489,white,nonhispanic,M,432 Ward Common Apt 99,1230.0,2019-09-29 02:27:52+00:00,0,0,0,1,0,0,1,0,1,0,1
+46,Mr.,Rogelio17,Lindgren255,,Runolfsdottir785,white,nonhispanic,M,858 Casper Lodge,1236.0,2019-07-17 19:40:43+00:00,0,0,0,0,0,0,1,0,0,0,0
+47,Mrs.,Lulu18,Hoeger474,,Beier427,white,nonhispanic,F,508 Hartmann Manor Unit 47,1238.0,2019-05-31 19:19:37+00:00,1,0,0,1,0,0,1,0,0,0,1
+48,Mrs.,Erin498,Mann644,,Koch169,white,nonhispanic,F,987 Schuster Arcade Unit 40,1240.0,2019-04-23 04:48:11+00:00,1,0,0,1,0,0,1,0,0,0,1
+49,Mr.,Billie243,Schaden604,PhD,Beier427,white,nonhispanic,M,404 D'Amore Light,1247.0,2020-05-06 23:27:56+00:00,1,1,0,1,0,0,1,0,0,0,1
+50,Mrs.,Lizbeth716,Smitham825,,Herman763,white,nonhispanic,F,999 Waelchi Manor,1267.0,2020-02-21 16:41:35+00:00,0,1,0,1,0,0,1,0,0,0,0
+51,Mr.,Domingo513,Hamill307,,Fritsch593,white,nonhispanic,M,982 Langosh Frontage road,1301.0,2020-02-20 07:58:18+00:00,1,1,0,1,1,0,1,0,0,0,1
+52,Mr.,Tyree261,Feeney44,,Sanford861,white,nonhispanic,M,243 Rice Tunnel Unit 80,1331.0,2020-11-04 12:38:21+00:00,1,0,0,1,0,0,1,0,0,0,0
+53,Mrs.,Ashleigh941,Gaylord332,,Gorczany269,white,nonhispanic,F,443 Ernser View,1342.0,2019-10-04 22:28:38+00:00,0,1,0,0,0,0,1,0,0,0,1
+54,Mrs.,Arnette709,Collins926,,Strosin214,black,nonhispanic,F,1073 Beatty Underpass,1349.0,2020-09-11 12:58:15+00:00,0,0,0,1,0,1,0,0,0,0,0
+55,Mrs.,Dung738,Treutel973,,Lowe577,white,nonhispanic,F,1036 Wyman Plaza Suite 51,1360.0,2019-12-08 03:16:49+00:00,0,0,0,0,0,0,1,0,0,0,1
+56,Mr.,Scotty190,Schamberger479,,Fadel536,white,nonhispanic,M,536 Durgan Wynd,1364.0,2019-04-10 03:19:00+00:00,0,0,0,1,0,0,1,0,0,0,1
+57,Mr.,Alfredo17,Ankunding277,,,white,nonhispanic,M,424 Murphy Approach Apt 82,1366.0,2019-12-21 06:10:18+00:00,0,0,0,0,0,0,0,0,0,0,0
+58,Mr.,Miquel905,Mohr916,,Gleichner915,white,nonhispanic,M,435 Rohan Neck,1370.0,2019-06-06 15:55:58+00:00,0,0,0,1,0,0,1,0,0,0,0
+59,Mr.,Carmine137,Lind531,,,white,nonhispanic,M,1031 Hand Terrace,1373.0,2019-06-15 20:00:40+00:00,0,0,0,0,0,0,1,0,0,0,0
+60,Mr.,Ora550,Glover433,,West559,white,nonhispanic,F,819 Volkman Fort,1376.0,2020-12-05 14:31:51+00:00,0,0,0,1,0,0,1,0,0,0,0
+61,Mr.,Dillon740,Schneider199,,Morissette863,white,nonhispanic,M,290 Quitzon Heights Suite 51,1420.0,2020-08-31 00:42:30+00:00,1,1,0,1,1,0,1,0,1,0,1
+62,Mr.,Issac619,Considine820,,Jaskolski867,white,nonhispanic,M,503 Mohr Spur Unit 31,1432.0,2019-08-06 16:07:13+00:00,0,0,0,1,0,0,1,0,0,0,0
+63,Mrs.,Veronica155,Batz141,,Stracke611,asian,nonhispanic,F,317 Kris Glen Apt 57,1434.0,2019-02-24 04:12:04+00:00,0,0,0,1,0,0,1,0,0,0,0
+64,Mr.,Basil991,Williamson769,,Carter549,asian,nonhispanic,M,208 Medhurst Dam Unit 32,1436.0,2020-10-05 08:44:18+00:00,0,1,0,1,1,0,1,0,0,0,1
+65,Mrs.,Pamelia915,Feeney44,PhD,Weber641,white,nonhispanic,F,279 Ernser Tunnel,1440.0,2019-03-16 17:15:46+00:00,1,1,0,1,1,0,1,0,0,0,1
+66,Mr.,Fredrick998,Hickle134,,Welch179,white,nonhispanic,M,1015 Huels Divide Unit 95,1450.0,2019-03-26 02:32:14+00:00,1,0,0,1,0,0,1,0,0,0,0
+67,Mr.,Al123,Maggio310,,Kozey370,white,nonhispanic,M,285 Willms Byway,1453.0,2019-11-27 18:42:49+00:00,1,1,0,1,1,1,1,0,1,0,1
+68,Mr.,Valery629,Sporer811,,Morissette863,white,nonhispanic,M,137 Schuppe Ville Apt 19,1462.0,2020-11-25 09:03:14+00:00,1,1,0,1,1,1,1,0,0,0,0
+69,Mr.,Thanh759,Ritchie586,,McKenzie376,white,nonhispanic,M,798 Metz Estate Suite 87,1463.0,2020-08-21 23:07:38+00:00,0,1,0,1,1,0,1,0,0,0,1
+70,Ms.,Isabelle619,Heller342,,Reynolds644,white,nonhispanic,F,282 Ferry Frontage road Apt 41,1464.0,2019-08-29 09:25:40+00:00,0,1,0,0,1,0,1,0,0,0,1
+71,Mr.,Tempie784,Schoen8,,Kassulke119,white,nonhispanic,M,480 Batz Mews,1469.0,2020-02-06 20:00:01+00:00,0,1,0,1,0,0,1,0,1,0,1
+72,Mrs.,Katrice671,Orn563,,Abernathy524,white,nonhispanic,F,433 O'Kon Stravenue,1475.0,2019-07-12 23:14:14+00:00,0,1,0,1,0,0,1,0,0,0,1
+73,Mr.,Horace32,Becker968,,Gerhold939,white,nonhispanic,M,1071 Tromp Skyway Unit 32,1506.0,2019-04-19 23:36:38+00:00,0,1,0,1,0,0,1,0,0,0,1
+74,Mr.,Andrea7,Mante251,,Cruickshank494,white,nonhispanic,M,759 Smitham Boulevard,1507.0,2019-06-21 18:35:43+00:00,0,0,0,0,0,0,1,0,0,0,1
+75,Mr.,Darin74,Conn188,,Harris789,white,nonhispanic,M,1078 Lockman Wynd,1510.0,2020-03-19 14:07:20+00:00,0,1,0,1,1,0,1,0,0,0,1
+76,Mr.,Branden904,Pouros728,,Frami345,white,nonhispanic,M,358 West Alley Apt 45,1515.0,2020-05-26 00:34:42+00:00,1,0,0,1,0,0,1,0,0,0,0
+77,Mr.,Ashanti808,Lueilwitz711,MD,Bogisich202,white,nonhispanic,M,346 Metz Dam,1516.0,2020-12-01 13:26:33+00:00,0,1,0,1,0,0,1,0,0,0,1
+78,Mr.,Erwin847,Lakin515,,Tromp100,white,nonhispanic,M,390 Heidenreich Frontage road Suite 10,1518.0,2019-01-11 07:33:03+00:00,0,1,0,1,0,0,1,0,0,0,1
+79,Mr.,Emerson869,Wolf938,,,white,nonhispanic,M,621 Lockman Common Apt 72,1521.0,2020-11-05 05:22:55+00:00,0,1,0,1,0,0,1,0,0,0,0
+80,Mr.,German382,Hilpert278,PhD,Cruickshank494,white,nonhispanic,M,136 Stroman Ranch Apt 26,1532.0,2019-03-02 21:39:37+00:00,0,0,0,1,1,0,1,0,0,0,1
+81,Mrs.,Lidia103,Block661,,Greenholt190,white,nonhispanic,F,168 Harvey Route,1535.0,2020-12-31 08:07:40+00:00,0,1,0,1,0,0,1,0,0,0,0
+82,Mrs.,Crista774,Hintz995,,Beer512,white,nonhispanic,F,227 Kunde Forge,1540.0,2019-11-15 19:35:54+00:00,0,1,0,1,0,0,1,0,0,0,1
+83,Mr.,Elvin140,Daugherty69,,,white,nonhispanic,M,311 Mills Annex Apt 70,1543.0,2020-04-02 19:10:09+00:00,0,0,0,1,0,0,0,0,0,0,1
+84,Mr.,Adan632,Runolfsson901,,Thiel172,white,nonhispanic,M,934 Kovacek Branch Unit 10,1545.0,2020-03-30 16:23:38+00:00,0,0,0,1,0,0,1,0,0,0,1
+85,Mr.,Haywood675,Fisher429,,Ward668,white,nonhispanic,M,961 Haley Way,1550.0,2020-03-23 07:29:41+00:00,1,1,0,1,0,1,1,0,0,0,1
+86,Mr.,Jame231,Jacobi462,,Jerde200,white,nonhispanic,M,938 Hoeger Union,1561.0,2019-02-25 05:43:41+00:00,0,1,0,0,0,0,1,0,0,0,0
+87,Mr.,Quintin944,Sipes176,,Robel940,white,nonhispanic,M,730 Boyle Row Apt 33,1562.0,2020-10-24 07:26:28+00:00,1,1,0,1,1,0,1,0,0,0,1
+88,Mrs.,Isabela97,Zarate81,,Santillán790,white,nonhispanic,F,175 Dach Terrace Unit 27,1566.0,2019-10-29 10:40:07+00:00,0,1,0,1,0,0,1,0,0,0,1
+89,Mr.,Odell776,Renner328,,Runolfsdottir785,white,nonhispanic,M,546 Zboncak Meadow Suite 66,1568.0,2019-03-28 19:16:54+00:00,0,0,0,1,1,0,1,0,0,0,1
+90,Mr.,Jerónimo599,Olvera69,PhD,Glover433,white,hispanic,M,808 Hintz Rue Suite 20,1570.0,2019-08-09 18:19:22+00:00,1,1,0,1,1,0,1,0,0,0,1
+91,Mrs.,Fernanda589,Dibbert990,MD,Dicki44,white,hispanic,F,953 Abbott Trailer,1581.0,2019-09-23 12:50:11+00:00,1,1,0,1,1,0,1,0,0,0,1
+92,Mrs.,Terrence276,Williamson769,,Cortés936,white,nonhispanic,F,356 Stark Green Suite 19,1583.0,2020-09-02 23:25:56+00:00,1,1,0,1,1,1,1,0,0,0,1
+93,Mr.,Rudy520,Zemlak964,,Harvey63,white,nonhispanic,M,129 Johnson Center Apt 14,1585.0,2019-11-03 05:17:36+00:00,1,1,0,1,0,0,1,0,0,0,1
+94,Mr.,Lala778,Koepp521,,Schimmel440,white,nonhispanic,M,494 Sipes Fork Suite 26,1588.0,2020-07-13 19:59:07+00:00,0,1,0,1,0,0,1,0,0,0,0
+95,Mrs.,Lynn917,Luettgen772,JD,Wilkinson796,white,nonhispanic,F,185 Krajcik Club Suite 95,1602.0,2020-09-29 21:12:09+00:00,1,1,0,1,1,1,1,0,0,0,1
+96,Mr.,Bret7,Treutel973,PhD,Ryan260,white,nonhispanic,M,889 Brakus Crossroad Unit 70,1603.0,2019-04-02 22:07:20+00:00,1,1,0,1,0,0,1,0,0,0,1
+97,Mr.,Drew592,Torphy630,MD,VonRueden376,white,nonhispanic,M,341 Bauch Lane Suite 48,1604.0,2019-01-07 10:07:21+00:00,1,1,0,1,1,0,1,0,0,0,1
+98,Mr.,Corey514,Maggio310,MD,Ernser583,white,nonhispanic,M,286 Dicki Common,1605.0,2019-05-22 20:01:09+00:00,1,1,0,1,1,0,1,0,0,0,1
+99,Mr.,Javier97,Blanda868,JD,Rogahn59,white,nonhispanic,M,428 Green Extension,1606.0,2019-05-23 08:52:24+00:00,1,1,0,1,0,0,1,0,0,0,1
+100,Mr.,Thurman577,Walter473,,Stracke611,white,nonhispanic,M,181 Turcotte Promenade Unit 13,1607.0,2019-09-13 17:38:31+00:00,1,1,0,1,1,0,1,0,0,0,1
+101,Mr.,Alfredo17,Serrato62,,Schuppe920,white,hispanic,M,640 Zieme Forge Unit 88,1608.0,2020-11-23 22:37:32+00:00,1,1,0,1,1,0,1,0,0,0,1
+102,Mrs.,Ike571,Lowe577,,Hegmann834,white,nonhispanic,F,712 Gorczany Lane Unit 5,1609.0,2019-08-09 10:17:05+00:00,1,1,0,1,1,0,1,0,0,0,1
+103,Mr.,Miguel815,Kihn564,,Spencer878,white,nonhispanic,M,1042 Champlin Rapid,1610.0,2020-04-27 17:19:41+00:00,1,1,0,1,1,0,1,0,0,0,1
+104,Mr.,Tricia672,Stark857,MD,Hintz995,white,nonhispanic,M,859 Okuneva Throughway Suite 13,1701.0,2019-07-21 10:33:24+00:00,1,1,0,1,1,0,1,0,0,0,1
+105,Mr.,Lenny728,Gerlach374,,Swift555,white,nonhispanic,F,304 Feeney Rest,1702.0,2019-11-25 19:05:01+00:00,1,1,0,1,1,1,1,0,0,0,1
+106,Mr.,Harry448,Kilback373,MD,Ratke343,white,nonhispanic,M,877 Ondricka Lodge,1730.0,2020-03-29 11:26:22+00:00,1,1,0,1,1,1,1,0,0,0,1
+107,Mr.,Dylan44,Keeling57,,,black,nonhispanic,M,923 Brown Trace,1747.0,2019-01-28 15:44:30+00:00,0,1,0,1,0,0,1,0,0,0,0
+108,Mrs.,Sal878,Corkery305,,McLaughlin530,white,nonhispanic,F,290 Hayes Grove Unit 70,1748.0,2020-08-31 10:37:58+00:00,0,0,0,1,0,0,1,0,0,0,1
+109,Mr.,Alan320,Dickens475,,Beatty507,white,nonhispanic,M,746 White Forge Apt 45,1749.0,2019-03-12 14:08:15+00:00,0,0,0,1,0,0,1,0,0,0,1
+110,Mr.,Shawn523,Wyman904,,Metz686,white,nonhispanic,M,766 Flatley Gardens Apt 94,1752.0,2020-07-16 22:47:38+00:00,1,1,0,1,1,0,1,0,0,0,1
+111,Mr.,Fidel864,Tillman293,,Rice937,white,nonhispanic,M,616 Kris Route,1754.0,2019-08-04 16:18:37+00:00,0,0,0,1,0,0,1,0,0,0,1
+112,Mr.,Ellsworth48,Ebert178,,Legros616,white,nonhispanic,M,652 Connelly Common,1757.0,2020-03-03 21:15:37+00:00,1,0,0,1,0,0,1,0,0,0,1
+113,Mr.,Salvador46,Fay398,,Beer512,white,nonhispanic,M,1015 Toy Route Apt 76,1801.0,2019-12-29 01:26:19+00:00,0,1,0,1,1,0,1,0,0,0,1
+114,Mrs.,Salley758,Tremblay80,,Huels583,white,nonhispanic,F,774 Boyer Road,1803.0,2019-04-04 20:50:40+00:00,0,0,0,1,1,0,1,0,0,0,1
+115,Mr.,Jude172,O'Kon634,,Abbott774,white,nonhispanic,M,625 Murray Well,1810.0,2019-02-16 12:07:04+00:00,1,1,0,1,0,0,1,0,0,0,1
+116,Mrs.,Arron144,Wintheiser220,MD,Wyman904,white,nonhispanic,F,295 Ward Run Suite 50,1830.0,2020-10-02 08:46:54+00:00,1,1,0,1,1,0,1,0,0,0,1
+117,Mr.,Sidney996,Schiller186,,Abshire638,white,nonhispanic,M,1079 Kozey Avenue Suite 63,1832.0,2020-12-17 08:50:33+00:00,1,1,0,1,1,0,1,0,0,0,1
+118,Mr.,Gordon377,Watsica258,PhD,Wilderman619,white,nonhispanic,M,377 Kunze Hollow Unit 45,1835.0,2020-06-06 12:47:30+00:00,0,1,0,1,1,0,1,0,0,0,1
+119,Mr.,Willis868,Beatty507,,Renner328,white,nonhispanic,M,325 Buckridge Union Apt 3,1840.0,2020-12-08 12:27:25+00:00,1,1,0,1,0,0,1,0,0,0,1
+120,Mr.,Mariano761,Mateo562,,Walter473,white,nonhispanic,M,619 Moen Orchard Suite 50,1841.0,2020-09-15 11:48:26+00:00,0,1,0,1,1,0,1,0,1,0,1
+121,Mr.,Alphonse92,Pfeffer420,,Shields502,white,nonhispanic,M,457 Welch Row,1843.0,2020-02-08 03:26:45+00:00,1,1,0,1,1,0,1,0,0,0,1
+122,Mr.,Erin498,Bernhard322,,Schimmel440,white,nonhispanic,M,530 Lindgren Course,1844.0,2020-04-04 14:56:35+00:00,1,1,0,1,1,0,1,0,0,0,1
+123,Mrs.,Erin498,Boyer713,,Klocko335,white,nonhispanic,F,583 Hills Ferry Suite 34,1850.0,2019-11-03 05:54:52+00:00,1,1,0,1,1,0,1,0,0,0,1
+124,Mr.,Teddy976,Jones311,,Dickinson688,white,nonhispanic,M,356 Kuhic Bay,1851.0,2019-01-08 14:29:50+00:00,1,1,0,1,1,1,1,0,1,0,1
+125,Mrs.,Shae705,Doyle959,JD,Stiedemann542,white,nonhispanic,F,888 Gulgowski Trafficway,1852.0,2020-12-17 21:26:02+00:00,1,1,0,1,1,1,1,0,0,0,1
+126,Mr.,Wilfred787,Beatty507,,Turcotte120,white,nonhispanic,M,108 Lindgren Avenue,1854.0,2020-01-14 07:43:51+00:00,1,1,0,1,1,1,1,0,0,0,1
+127,Mrs.,Margeret29,Fritsch593,,Ledner144,white,nonhispanic,F,179 Schinner Walk Unit 19,1866.0,2019-02-13 07:41:50+00:00,1,1,0,1,0,0,1,0,0,0,1
+128,Mr.,Angla303,O'Conner199,,Stark857,white,nonhispanic,M,853 Wiegand Green,1867.0,2019-06-07 18:53:26+00:00,1,1,0,1,0,0,1,0,0,0,1
+129,Mr.,Douglass930,Smith67,,Boyer713,black,hispanic,M,339 Schimmel Lock Apt 80,1880.0,2019-03-10 19:20:54+00:00,0,1,0,1,1,0,1,0,0,0,1
+130,Mrs.,Justine412,Thiel172,JD,Keebler762,white,nonhispanic,F,1095 Roob Esplanade,1887.0,2019-11-28 10:37:35+00:00,1,1,0,1,1,0,1,0,0,0,1
+131,Mr.,Jayson808,Emard19,,Lang846,white,nonhispanic,M,220 Lubowitz Bay Unit 88,1890.0,2019-03-30 23:41:43+00:00,1,1,0,1,1,0,1,0,0,0,1
+132,Mr.,Thanh759,Bartell116,,Pantoja215,white,nonhispanic,F,346 Murphy Divide,1901.0,2020-09-10 08:40:42+00:00,1,1,0,1,1,0,1,0,0,0,1
+133,Mr.,Cornell131,Flatley871,,Rogahn59,white,nonhispanic,M,721 Brakus Overpass,1902.0,2019-09-01 08:12:49+00:00,1,1,0,1,0,1,1,0,0,0,1
+134,Mr.,Leslie90,Heathcote539,,Bailey598,white,nonhispanic,M,322 Ullrich Rapid Apt 87,1904.0,2020-10-20 17:26:09+00:00,1,1,0,1,0,1,1,0,0,0,1
+135,Mrs.,Haydee844,Boyle917,,Price929,white,nonhispanic,F,593 Hackett Overpass,1905.0,2020-09-11 09:51:20+00:00,0,1,0,1,1,1,1,0,0,0,1
+136,Mr.,Tanner110,Schneider199,JD,Lubowitz58,white,nonhispanic,M,697 Connelly Trailer Unit 47,1906.0,2019-08-14 04:24:46+00:00,1,1,0,1,1,0,1,0,0,0,1
+137,Mr.,Raul814,Ward668,MD,Funk324,white,nonhispanic,M,634 Schultz Key Unit 88,1907.0,2019-04-10 02:55:11+00:00,1,1,0,1,1,0,1,0,1,0,1
+138,Mrs.,Connie24,Christiansen251,,Ortiz186,white,nonhispanic,F,192 Jacobs Well,1908.0,2019-07-09 15:18:52+00:00,0,1,0,1,0,0,1,0,0,0,1
+139,Ms.,Shaniqua618,Jacobi462,MD,Block661,white,nonhispanic,F,397 Franecki Vista,1913.0,2019-09-24 04:45:53+00:00,1,1,0,1,1,0,1,0,0,0,1
+140,Mr.,Doug189,Gulgowski816,MD,Mejía318,white,nonhispanic,M,171 Ferry Approach Unit 32,1915.0,2020-06-30 00:45:20+00:00,1,1,0,1,1,1,1,0,0,0,1
+141,Mr.,Margo702,Will178,JD,Thompson596,white,nonhispanic,F,150 Konopelski Mission Suite 32,1921.0,2019-04-08 11:33:03+00:00,1,0,0,1,1,0,1,0,0,0,1
+142,Mr.,Daren950,Schmidt332,,Gerhold939,white,nonhispanic,M,1087 Conroy Gateway,1923.0,2020-04-05 01:06:11+00:00,0,1,0,1,1,0,1,0,0,0,1
+143,Mr.,Arturo47,Barrios478,,,white,hispanic,M,370 O'Keefe Trace,1929.0,2019-01-02 22:29:15+00:00,0,0,0,0,0,0,0,0,0,0,0
+144,Mr.,Ty725,Mayer370,PhD,Ullrich385,white,nonhispanic,M,1023 Kautzer Lane Unit 21,1930.0,2020-06-13 01:19:52+00:00,1,1,0,1,1,0,1,0,1,0,1
+145,Mr.,Gil594,Volkman526,MD,Sanford861,white,nonhispanic,M,848 Nolan Key Unit 65,1937.0,2020-04-26 21:48:21+00:00,1,1,0,1,0,0,1,0,0,0,1
+146,Mr.,Cliff504,Hilll811,,Powlowski563,black,nonhispanic,M,890 Muller Track Suite 58,1938.0,2019-11-22 21:16:09+00:00,1,1,0,1,1,0,1,0,0,0,1
+147,Mr.,Jaime666,Rosenbaum794,MD,Bednar518,white,nonhispanic,M,621 Reinger Mews,1940.0,2020-07-26 00:10:48+00:00,1,1,0,1,1,0,1,0,1,0,1
+148,Mr.,Opal236,Rippin620,,Heller342,white,nonhispanic,M,357 Hammes Parade,1945.0,2020-10-26 06:48:41+00:00,1,1,0,1,1,1,1,0,0,0,1
+149,Mr.,Boris111,Ziemann98,,Watsica258,white,nonhispanic,M,955 Collier Crossing Suite 22,1950.0,2020-08-07 05:56:34+00:00,0,1,0,1,1,0,1,0,0,0,1
+150,Mr.,Patrina117,Gorczany269,MD,Balistreri607,white,nonhispanic,M,452 Kemmer Estate Suite 0,1951.0,2020-08-09 20:43:27+00:00,1,1,0,1,0,0,1,0,1,0,1
+151,Mr.,Maya972,O'Hara248,PhD,Russel238,white,nonhispanic,M,778 Green Quay,1952.0,2019-04-17 10:41:08+00:00,1,1,0,1,0,0,1,0,0,0,0
+152,Mr.,Toby274,Lueilwitz711,,Wilkinson796,white,nonhispanic,F,915 Kuhlman Approach Unit 8,1960.0,2020-04-09 10:02:00+00:00,1,1,0,1,1,0,1,0,0,0,1
+153,Mrs.,Macy314,Conroy74,,Orn563,white,nonhispanic,F,413 Schinner Ville,1966.0,2020-11-10 08:57:39+00:00,0,1,0,1,0,0,1,0,0,0,1
+154,Mr.,Julio255,Jimínez732,,,native,hispanic,M,695 Schimmel Dale,1969.0,2019-12-19 23:44:48+00:00,0,0,0,1,0,0,0,0,0,0,0
+155,Mr.,Greg949,Harvey63,,Kohler843,white,nonhispanic,M,102 Lindgren Common,1970.0,2019-01-16 22:00:37+00:00,0,1,0,1,1,0,1,0,0,0,1
+156,Ms.,Reina25,Villalobos491,,Stiedemann542,asian,hispanic,F,858 Schumm Fork,1983.0,2020-12-18 03:42:45+00:00,1,1,0,1,1,0,1,0,0,0,1
+157,Mr.,Reatha769,Bartell116,,Kozey370,white,nonhispanic,F,301 Boyle Mall Suite 76,2019.0,2020-11-26 00:34:29+00:00,1,1,0,1,1,0,1,0,0,0,1
+158,Mr.,Neil122,Schmidt332,,Renner328,white,nonhispanic,M,137 Pollich Byway,2026.0,2019-06-30 12:04:26+00:00,0,1,0,1,1,0,1,0,0,0,1
+159,Mr.,Irwin931,Goyette777,,Fernández399,white,nonhispanic,M,628 Bernier Bridge Unit 50,2030.0,2019-04-28 12:48:10+00:00,1,0,0,1,0,0,1,0,0,0,1
+160,Mr.,Argelia29,Wilderman619,JD,Gottlieb798,white,nonhispanic,M,496 Veum Ramp,2035.0,2019-10-27 23:54:44+00:00,1,1,0,1,1,0,1,0,0,0,1
+161,Mr.,Shawanda667,Schinner682,MD,Bogisich202,white,nonhispanic,M,589 Bergnaum Meadow Apt 82,2038.0,2020-11-13 13:25:33+00:00,0,1,0,1,0,0,1,0,0,0,1
+162,Mr.,Gregorio366,Yundt842,,Cartwright189,white,nonhispanic,M,880 Mueller Boulevard Unit 65,2043.0,2019-05-26 07:09:54+00:00,1,1,0,1,1,1,1,0,0,0,1
+163,Mrs.,Kimberly627,Collier206,,Cummings51,white,nonhispanic,F,182 Smith Drive Unit 54,2045.0,2019-01-04 04:45:14+00:00,0,0,0,1,0,0,1,0,0,0,1
+164,Mr.,Colin861,Ratke343,JD,Gleichner915,white,nonhispanic,M,886 Bode Esplanade Suite 15,2050.0,2020-05-09 21:09:29+00:00,1,1,0,1,0,0,1,0,0,0,1
+165,Mrs.,Lola232,Avilés474,,Candelaria844,white,hispanic,F,1055 Parker Plaza,2051.0,2019-11-04 09:14:42+00:00,0,1,0,1,0,0,1,0,0,0,0
+166,Mr.,Gerda633,Jacobson885,PhD,Eichmann909,white,nonhispanic,M,913 McCullough Fork,2052.0,2019-04-19 00:51:01+00:00,1,0,0,1,1,0,1,0,0,0,1
+167,Mr.,Kayleen757,Lemke654,,Hoeger474,white,nonhispanic,F,542 Jenkins Walk,2060.0,2020-03-08 13:24:34+00:00,0,1,0,0,0,0,1,0,1,0,1
+168,Mr.,Dorla228,Harvey63,,Howell947,white,nonhispanic,M,797 Hand Branch,2062.0,2019-07-17 12:12:59+00:00,1,1,0,1,1,0,1,0,0,0,1
+169,Mr.,Kristofer887,Kuhn96,,Hirthe744,white,nonhispanic,M,739 Heller Gardens Unit 38,2066.0,2020-04-20 13:44:08+00:00,1,1,0,1,1,0,1,0,1,0,1
+170,Mr.,Miguel815,Morissette863,MD,Langosh790,white,nonhispanic,F,236 Legros Well,2067.0,2019-11-30 06:53:59+00:00,1,1,0,1,1,0,1,0,0,0,1
+171,Mr.,Otha286,Tremblay80,JD,Lebsack687,white,nonhispanic,M,437 Schmeler Gate Apt 81,2081.0,2020-06-19 09:40:31+00:00,1,1,0,1,0,1,1,0,0,0,1
+172,Mr.,Cornelius968,Rippin620,,Willms744,white,nonhispanic,M,1002 Goodwin Vista,2090.0,2020-02-23 12:33:27+00:00,1,1,0,1,1,0,1,0,0,0,1
+173,Mrs.,Darrin898,Sporer811,JD,Schroeder447,white,nonhispanic,F,962 Kemmer Row,2108.0,2020-12-09 06:35:27+00:00,1,1,0,1,1,0,1,0,0,0,1
+174,Mr.,Amos720,Hermann103,PhD,Pizarro791,black,nonhispanic,M,414 Jenkins Street Unit 6,2109.0,2019-01-02 18:21:05+00:00,1,1,0,1,1,1,1,0,0,0,1
+175,Mrs.,Spring819,Crooks415,PhD,Kshlerin58,white,nonhispanic,F,669 Ledner Dam,2110.0,2020-07-14 15:33:15+00:00,1,1,0,1,1,0,1,0,0,0,1
+176,Mr.,Eugene421,Abernathy524,MD,Ferry570,white,nonhispanic,M,706 Connelly Track Unit 1,2111.0,2019-10-03 05:33:43+00:00,1,1,0,1,1,0,1,0,0,0,1
+177,Mr.,Denis399,Wolff180,,Mayer370,white,nonhispanic,M,1038 Dibbert Route,2113.0,2019-10-15 05:24:01+00:00,1,1,0,1,1,1,1,0,0,0,1
+178,Mrs.,Shandra823,Bosco882,,Strosin214,black,nonhispanic,F,781 Hilpert Landing,2114.0,2020-05-05 17:37:53+00:00,1,1,0,1,1,0,1,0,0,0,1
+179,Mr.,Boris111,Mitchell808,PhD,Mendoza384,white,hispanic,M,168 Kiehn Ranch,2115.0,2020-10-22 03:05:43+00:00,1,1,0,1,1,0,1,0,0,0,1
+180,Mr.,Roger751,Smitham825,MD,Flatley871,white,nonhispanic,M,679 Tromp Highlands Unit 8,2116.0,2019-10-19 10:46:31+00:00,0,1,0,1,1,0,1,0,1,0,1
+181,Mr.,Margarito178,Botsford977,MD,Shields502,black,nonhispanic,M,780 McDermott Park,2118.0,2019-06-26 11:23:02+00:00,0,1,0,1,0,0,1,0,0,0,1
+182,Mrs.,Mercedes82,Guerrero997,,Atencio773,white,nonhispanic,F,379 Cronin Neck Unit 51,2119.0,2020-02-04 08:48:25+00:00,1,1,0,1,1,0,1,0,0,0,1
+183,Mr.,Jamaal34,Schumm995,JD,O'Kon634,white,nonhispanic,M,424 Hahn Skyway Suite 78,2120.0,2020-01-16 17:09:31+00:00,1,1,0,1,1,1,1,0,0,0,1
+184,Mr.,Efrain317,Dibbert990,,Simonis280,white,nonhispanic,M,475 Wunsch Overpass,2121.0,2019-05-29 20:29:23+00:00,1,1,0,1,1,1,1,0,1,0,1
+185,Mr.,Vasiliki884,Harber290,,Cormier289,white,nonhispanic,M,789 Schulist Mill,2122.0,2019-09-30 18:29:00+00:00,1,1,0,1,1,0,1,0,1,0,1
+186,Mr.,Jame231,Buckridge80,JD,Kub800,black,nonhispanic,F,163 Hickle Viaduct Unit 76,2124.0,2020-12-05 15:33:53+00:00,1,1,0,1,1,0,1,0,1,0,1
+187,Mr.,Major265,Stoltenberg489,MD,Jáquez824,white,nonhispanic,M,1011 McLaughlin Trafficway Suite 30,2125.0,2019-02-23 22:34:01+00:00,1,1,0,1,1,0,1,0,0,0,1
+188,Mr.,Julio255,Botsford977,,Pfeffer420,white,nonhispanic,M,425 Bernhard Divide Unit 57,2126.0,2019-02-18 10:50:42+00:00,1,1,0,1,1,1,1,0,0,0,1
+189,Mr.,Antonia30,Schultz619,MD,Waelchi213,white,nonhispanic,M,401 Hauck Avenue Suite 68,2127.0,2020-06-23 05:01:05+00:00,1,1,0,1,1,1,1,0,1,0,1
+190,Mr.,Josue598,Torphy630,JD,Vandervort697,white,nonhispanic,M,204 Lakin Promenade,2128.0,2020-09-23 09:20:58+00:00,1,1,0,1,1,1,1,0,0,0,1
+191,Mr.,Jamey282,Bartell116,MD,Johns824,white,nonhispanic,M,395 Watsica Path Unit 76,2129.0,2020-10-09 12:16:30+00:00,1,1,0,1,1,0,1,0,1,0,1
+192,Mr.,Louie190,Harber290,,Welch179,white,nonhispanic,M,903 Zboncak Plaza,2130.0,2019-04-29 13:59:34+00:00,1,1,0,1,1,0,1,0,0,0,1
+193,Mrs.,Fredric73,Upton904,,McGlynn426,white,nonhispanic,F,319 Weimann Key Suite 15,2131.0,2019-06-25 16:48:47+00:00,1,1,0,1,1,0,1,0,0,0,1
+194,Mr.,Carlo647,Rau926,JD,Metz686,white,nonhispanic,M,288 Kassulke Rest Apt 50,2132.0,2019-05-21 05:24:36+00:00,1,1,0,1,1,1,1,0,1,0,1
+195,Mr.,Misha8,Emmerich580,MD,Feil794,white,nonhispanic,F,599 Beahan Mill,2134.0,2019-10-06 08:42:09+00:00,1,1,0,1,1,0,1,0,0,0,1
+196,Mr.,Henry768,Wintheiser220,JD,Nájera755,white,nonhispanic,M,251 Glover Path Unit 35,2135.0,2020-01-18 06:23:52+00:00,1,1,0,1,1,0,1,0,0,0,1
+197,Mr.,Leanne251,Sauer652,,Purdy2,white,nonhispanic,M,835 Anderson Union,2136.0,2019-02-05 08:09:52+00:00,1,1,0,1,1,0,1,0,0,1,1
+198,Mr.,Marcelino726,Prosacco716,MD,McGlynn426,white,nonhispanic,M,128 Adams Port Apt 78,2138.0,2019-10-15 18:56:33+00:00,1,1,0,1,1,1,1,0,0,0,1
+199,Mr.,Genaro214,Flatley871,JD,Harvey63,white,nonhispanic,M,629 Gerlach Spur Suite 4,2139.0,2020-11-02 15:48:32+00:00,1,1,0,1,1,1,1,0,0,0,1
+200,Mr.,Luke971,Hills818,MD,Ziemann98,white,nonhispanic,M,457 Block Camp,2140.0,2019-07-24 15:56:55+00:00,1,1,0,1,1,0,1,0,0,0,1
+201,Mrs.,Hazel720,Emmerich580,JD,Daniel959,white,nonhispanic,F,777 Zboncak Promenade,2141.0,2019-04-06 11:12:06+00:00,1,1,0,1,1,0,1,0,0,0,1
+202,Mr.,Erich201,McGlynn426,,Douglas31,white,nonhispanic,M,840 Kemmer Vale,2142.0,2020-12-29 16:29:45+00:00,1,1,0,1,1,0,1,0,0,0,1
+203,Ms.,Treena759,Williamson769,MD,Hilll811,white,nonhispanic,F,307 Smith Skyway,2143.0,2019-03-20 23:58:34+00:00,0,1,0,1,0,0,1,0,1,0,1
+204,Mr.,Cedrick207,Kutch271,PhD,Graham902,white,nonhispanic,M,532 Torphy Junction,2144.0,2019-01-24 10:38:03+00:00,1,1,0,1,1,1,1,0,0,0,1
+205,Mr.,In373,Welch179,MD,Schmeler639,white,nonhispanic,M,1097 Littel Ville Apt 23,2145.0,2020-04-24 07:18:57+00:00,1,1,0,1,1,0,1,0,0,0,1
+206,Mrs.,Cythia210,Wolff180,MD,Marks830,white,nonhispanic,F,1028 Murphy Parade,2148.0,2020-11-13 02:43:58+00:00,1,1,0,1,1,1,1,0,0,0,1
+207,Mrs.,Agnus790,Bergstrom287,MD,Torp761,white,nonhispanic,F,856 Auer Branch,2149.0,2019-04-09 15:44:21+00:00,1,1,0,1,1,0,1,0,0,0,1
+208,Ms.,Tanna708,Schuster709,,Pacheco179,white,nonhispanic,F,249 Hodkiewicz Lane Apt 7,2150.0,2019-12-31 06:10:25+00:00,1,1,0,1,1,0,1,0,1,0,1
+209,Mrs.,Caprice565,Torp761,PhD,Jones311,white,nonhispanic,F,241 Pfeffer Crossroad Unit 54,2151.0,2019-09-03 04:50:17+00:00,1,1,0,1,1,0,1,0,0,0,1
+210,Mr.,Laraine204,Kreiger457,MD,Botsford977,black,nonhispanic,M,151 Willms Parade,2152.0,2020-02-09 13:45:07+00:00,1,1,0,1,1,1,1,0,0,0,1
+211,Mr.,Lakeisha206,Kihn564,JD,Veum823,white,nonhispanic,M,172 Satterfield Union,2155.0,2019-01-11 11:24:37+00:00,1,1,0,1,1,1,1,0,0,0,1
+212,Mr.,Anderson154,Nader710,JD,Bosco882,white,nonhispanic,M,332 Adams Manor,2163.0,2019-12-09 22:23:37+00:00,1,1,0,1,1,1,1,0,1,0,1
+213,Mr.,Leandro563,Skiles927,,Anaya940,white,nonhispanic,M,722 Hegmann Esplanade Unit 67,2169.0,2019-02-01 20:03:57+00:00,1,1,0,1,0,0,1,0,0,0,1
+214,Mr.,Pandora807,Schuppe920,JD,Swaniawski813,white,nonhispanic,M,769 Turner Corner,2170.0,2019-07-03 03:06:16+00:00,1,1,0,1,1,0,1,0,1,0,1
+215,Mr.,Andreas188,Schmitt836,JD,Price929,white,nonhispanic,M,364 Nitzsche Rapid,2171.0,2019-02-04 14:42:33+00:00,1,1,0,1,1,0,1,0,0,0,1
+216,Mrs.,Ken316,Fahey393,MD,Pfannerstill264,white,nonhispanic,F,983 Trantow Mall,2176.0,2020-11-06 10:11:49+00:00,0,1,0,1,1,0,1,0,1,0,1
+217,Mr.,Kenton313,Fritsch593,,Sipes176,white,nonhispanic,M,497 Goyette Meadow,2180.0,2020-02-06 09:08:35+00:00,0,1,0,1,0,0,1,0,0,0,1
+218,Mr.,Zachery872,Simonis280,,Jacobi462,white,nonhispanic,M,684 Wolf Forge,2184.0,2020-10-28 22:32:24+00:00,1,1,0,1,1,1,1,0,0,0,1
+219,Mr.,Roseline981,Blanda868,JD,Treutel973,white,nonhispanic,F,673 Deckow Way,2186.0,2019-08-20 20:17:48+00:00,1,1,0,1,1,1,1,0,0,0,1
+220,Mr.,Jesenia223,Block661,,Schimmel440,white,nonhispanic,M,473 Carter Gateway,2188.0,2020-02-10 22:21:31+00:00,1,1,0,1,0,0,1,0,0,0,1
+221,Mr.,Lamar193,Stehr398,PhD,Walker122,white,nonhispanic,F,811 O'Conner Passage,2189.0,2020-10-31 05:07:37+00:00,1,1,0,1,1,0,1,0,0,0,1
+222,Mrs.,Celeste191,Jones311,,Mayert710,white,nonhispanic,F,923 Gottlieb Lane Suite 55,2190.0,2020-12-09 20:42:01+00:00,0,1,0,1,0,0,1,0,0,0,1
+223,Ms.,Raelene218,Grant908,,Reichel38,white,nonhispanic,F,347 Strosin Heights Unit 63,2191.0,2019-08-25 16:17:00+00:00,0,1,0,1,0,0,1,0,0,0,1
+224,Mrs.,Fumiko79,Brakus656,,Leuschke194,black,nonhispanic,F,169 Bartell Parade Suite 47,2199.0,2020-10-12 12:19:55+00:00,1,1,0,1,1,0,1,0,0,0,1
+225,Mr.,Maxwell782,Pfeffer420,PhD,Morar593,white,nonhispanic,M,721 McGlynn Landing Suite 69,2203.0,2020-11-20 09:14:52+00:00,1,1,0,1,1,1,1,0,0,0,1
+226,Mr.,Joseph689,Turcotte120,MD,Legros616,white,hispanic,M,878 Ritchie Route,2210.0,2019-07-02 18:10:28+00:00,1,1,0,1,1,0,1,0,0,0,1
+227,Mr.,Sylvester827,Hilpert278,,Pfannerstill264,white,nonhispanic,M,145 Stark Grove,2215.0,2019-05-17 10:13:46+00:00,1,1,0,1,1,1,1,0,1,0,1
+228,Mr.,Terry864,Blanda868,,Hane680,white,nonhispanic,F,159 Marvin Station,2301.0,2019-02-17 19:18:02+00:00,1,1,0,1,1,0,1,0,0,0,1
+229,Mr.,Ulrike696,Ullrich385,,Christiansen251,white,nonhispanic,F,159 Carter Meadow Apt 55,2302.0,2019-01-12 01:45:33+00:00,0,1,0,1,0,0,1,0,0,0,1
+230,Mr.,Hortense60,Conn188,PhD,Deckow585,white,nonhispanic,M,1059 Williamson Rue Suite 77,2324.0,2019-11-02 17:29:17+00:00,1,1,0,1,1,0,1,0,0,0,1
+231,Mr.,Robbie31,Shanahan202,,Rempel203,white,nonhispanic,M,538 Mayert Course,2332.0,2019-02-22 11:46:28+00:00,1,1,0,1,1,0,1,0,0,0,1
+232,Mr.,Herman763,Beier427,,Lemke654,white,nonhispanic,M,699 Zemlak Crossroad Suite 0,2341.0,2019-10-22 13:54:35+00:00,0,1,0,1,0,0,1,0,0,0,1
+233,Mr.,Chris95,Fay398,,Hayes766,white,nonhispanic,M,467 Pouros Crossing Apt 15,2343.0,2019-11-08 12:49:23+00:00,0,1,0,1,0,0,1,0,0,0,1
+234,Mr.,Alfonzo975,Hauck852,MD,Sawayn19,white,nonhispanic,F,122 Trantow Ville,2351.0,2020-09-06 05:48:04+00:00,1,1,0,1,1,0,1,0,0,0,1
+235,Mrs.,Guillermina633,Alemán808,PhD,Heredia716,white,nonhispanic,F,857 Collier Annex Suite 76,2358.0,2019-05-02 20:38:15+00:00,1,1,0,1,0,0,1,0,0,0,0
+236,Mr.,Brunilda665,Auer97,,Christiansen251,white,nonhispanic,M,1090 Trantow Course Apt 0,2360.0,2019-03-01 16:30:02+00:00,1,1,0,1,1,0,1,0,1,0,1
+237,Mr.,Lucien408,Rau926,,Carter549,white,nonhispanic,M,642 Grant Park,2364.0,2019-12-12 13:43:15+00:00,1,1,0,1,1,0,1,0,1,0,1
+238,Mr.,Guillermina633,Strosin214,JD,Wunsch504,white,nonhispanic,F,596 Nienow Well Apt 67,2368.0,2019-01-22 18:30:45+00:00,1,1,0,1,1,0,1,0,0,0,1
+239,Mr.,Salvador46,Contreras711,,Terry864,asian,nonhispanic,M,103 Volkman Manor,2420.0,2019-04-25 16:47:31+00:00,1,1,0,1,0,0,1,0,0,0,1
+240,Mr.,Leonardo412,Emard19,,Maggio310,white,nonhispanic,F,742 O'Keefe Track Apt 86,2421.0,2019-05-30 21:05:04+00:00,1,1,0,1,1,0,1,0,1,0,1
+241,Mrs.,Barton704,Jakubowski832,,Grady603,white,nonhispanic,F,809 Mante Byway,2445.0,2019-03-10 15:58:35+00:00,1,1,0,1,1,0,1,0,0,0,1
+242,Mr.,Raelene218,Erdman779,JD,Cassin499,white,nonhispanic,M,561 Gislason Track Suite 25,2446.0,2020-08-05 09:31:36+00:00,1,1,0,1,1,0,1,0,0,0,1
+243,Mr.,Ismael683,Hoeger474,JD,Towne435,white,nonhispanic,F,639 Stamm Route,2451.0,2020-05-25 06:26:22+00:00,1,1,0,1,0,0,1,0,0,0,1
+244,Mr.,Garnett735,Price929,,Zboncak558,white,nonhispanic,F,530 Kerluke Dale,2452.0,2019-06-01 05:51:10+00:00,0,1,0,1,1,0,1,0,0,0,1
+245,Mrs.,Ronni748,Hane680,JD,Crooks415,white,nonhispanic,F,519 Luettgen Mission,2453.0,2019-05-26 21:03:00+00:00,0,1,0,1,0,0,1,0,0,0,1
+246,Mr.,Donn979,Bahringer146,,Reinger292,white,nonhispanic,M,146 Schmitt Rapid,2457.0,2019-07-21 23:39:07+00:00,1,1,0,1,1,0,1,0,0,0,1
+247,Mr.,Elaina826,Tremblay80,,Barrows492,white,nonhispanic,M,219 Zemlak Ranch,2458.0,2019-09-23 14:49:25+00:00,0,0,0,1,0,0,1,0,0,0,1
+248,Mr.,Carey440,Lindgren255,JD,Daugherty69,white,nonhispanic,M,854 Abernathy Gateway Suite 0,2459.0,2019-06-16 08:04:00+00:00,0,1,0,1,1,0,1,0,0,0,1
+249,Mr.,Riley817,Lakin515,,Beahan375,white,nonhispanic,M,434 Kuvalis Plaza Apt 61,2460.0,2019-02-19 18:35:35+00:00,1,1,0,1,0,0,1,0,0,0,1
+250,Mr.,Keith571,VonRueden376,,Keebler762,asian,nonhispanic,M,917 Mohr Avenue Apt 75,2461.0,2020-04-28 23:58:01+00:00,1,1,0,1,1,0,1,0,0,0,1
+251,Mr.,Randell912,Mitchell808,PhD,Toy286,asian,nonhispanic,M,1069 Hilpert Plaza,2462.0,2020-11-04 19:06:27+00:00,0,1,0,1,0,0,1,0,0,0,1
+252,Mrs.,Marvella276,Russel238,PhD,Fisher429,white,nonhispanic,F,726 Cartwright Wynd Apt 59,2464.0,2019-12-28 03:17:40+00:00,0,1,0,1,0,1,1,0,0,0,1
+253,Mr.,Janel230,Zboncak558,,Krajcik437,white,nonhispanic,M,859 Pouros Ferry Unit 44,2465.0,2019-02-14 06:10:40+00:00,1,1,0,1,0,0,1,0,0,0,1
+254,Ms.,Maryalice613,Pfeffer420,,Bednar518,asian,nonhispanic,F,897 Murazik Gate Apt 51,2466.0,2019-05-12 21:40:51+00:00,0,1,0,1,0,0,1,0,0,0,1
+255,Mr.,Stefan297,Trantow673,JD,Krajcik437,white,nonhispanic,M,551 Waelchi Landing Apt 93,2467.0,2019-07-29 19:09:10+00:00,1,1,0,1,1,0,1,0,0,0,1
+256,Mr.,Eric487,Schulist381,,Bogisich202,white,nonhispanic,M,561 Mante Dam,2468.0,2020-02-15 23:11:02+00:00,1,0,0,1,1,0,1,0,0,0,1
+257,Mr.,Douglass930,Dicki44,MD,Bailey598,white,nonhispanic,M,964 Hilpert Bay Unit 50,2472.0,2019-09-29 09:51:37+00:00,1,1,0,1,1,1,1,0,0,0,1
+258,Mr.,Cynthia180,Tromp100,PhD,Klocko335,white,nonhispanic,M,223 Little Plaza,2474.0,2020-12-21 09:12:52+00:00,1,1,0,1,1,0,1,0,0,0,1
+259,Mrs.,Hallie315,Stroman228,MD,Zemlak964,white,nonhispanic,F,925 Russel Knoll Suite 47,2476.0,2020-12-04 15:50:39+00:00,1,1,0,1,1,0,1,0,0,0,1
+260,Mrs.,Lakeisha206,Nader710,,Erdman779,white,nonhispanic,F,205 Adams Divide,2478.0,2019-04-11 09:47:16+00:00,0,1,0,1,1,0,1,0,0,0,1
+261,Ms.,María Elena653,Pelayo88,,O'Reilly797,white,hispanic,F,1089 Wilderman Club Apt 14,2481.0,2019-04-27 18:59:44+00:00,0,1,0,1,1,0,1,0,0,0,1
+262,Mrs.,Blondell454,Hilpert278,,Grimes165,white,nonhispanic,F,150 Dooley Plaza,2482.0,2020-01-25 09:11:33+00:00,1,1,0,0,1,0,1,0,0,0,1
+263,Mr.,Haywood675,Skiles927,,Douglas31,white,nonhispanic,M,1063 Kunde Lane Suite 29,2492.0,2019-10-02 23:25:27+00:00,1,1,0,1,1,0,1,0,0,0,1
+264,Mr.,Shameka870,Littel644,,Gulgowski816,white,nonhispanic,F,499 Kuvalis Well Suite 46,2494.0,2020-06-19 05:51:36+00:00,1,1,0,1,0,0,1,0,0,0,1
+265,Mr.,Margarito178,Langosh790,,Schulist381,white,nonhispanic,F,291 Abshire Stravenue,2532.0,2020-12-01 19:32:39+00:00,1,1,0,1,1,0,1,0,0,0,1
+266,Mr.,Sunday568,Krajcik437,PhD,Stracke611,white,nonhispanic,M,976 Green Avenue Apt 7,2536.0,2020-12-25 08:18:41+00:00,0,0,0,1,1,0,1,0,0,0,1
+267,Mr.,Gonzalo160,Klein929,JD,Hudson301,white,nonhispanic,M,869 Rau Trace,2537.0,2019-11-12 06:24:35+00:00,0,1,0,1,1,0,1,0,0,0,1
+268,Mrs.,Charita800,Reichert620,MD,Waelchi213,white,nonhispanic,F,876 Ryan Terrace,2540.0,2019-07-02 05:16:29+00:00,1,1,0,1,1,0,1,0,0,0,1
+269,Mr.,Bradly656,Goyette777,,Stark857,white,nonhispanic,M,360 Ziemann Lodge,2542.0,2019-02-09 00:41:06+00:00,0,1,0,1,0,0,1,0,0,0,1
+270,Mr.,Chad48,Abshire638,,,white,nonhispanic,M,725 Wisozk Alley Unit 25,2543.0,2020-10-03 08:44:58+00:00,0,0,0,0,0,0,0,0,0,0,0
+271,Mrs.,Ann985,Koelpin146,,Larkin917,white,nonhispanic,F,393 Hermiston Trailer Apt 83,2553.0,2019-12-11 03:17:32+00:00,0,0,0,0,0,0,1,0,0,0,1
+272,Mr.,Francis500,Stokes453,,Botsford977,white,hispanic,M,748 Hoeger Ville Suite 70,2554.0,2019-04-29 18:21:31+00:00,1,1,0,1,0,0,1,0,0,0,1
+273,Mr.,Abel832,McKenzie376,PhD,Wunsch504,white,nonhispanic,M,344 Nikolaus Grove,2556.0,2020-09-07 23:29:49+00:00,0,1,0,1,0,0,1,0,0,0,1
+274,Ms.,Tyler508,Jerde200,,,white,nonhispanic,F,209 Emmerich Wall,2558.0,2019-03-15 05:45:44+00:00,0,0,0,0,0,0,1,0,0,0,1
+275,Mrs.,Alta896,Aufderhar910,,Murphy561,white,nonhispanic,F,326 Grimes Stravenue Unit 41,2559.0,2019-02-06 02:01:41+00:00,0,0,0,1,0,0,1,0,0,0,1
+276,Mr.,Christopher407,McKenzie376,,Waters156,white,nonhispanic,M,487 Nienow Flat Suite 44,2561.0,2020-01-19 12:05:28+00:00,1,1,0,1,0,0,1,0,0,0,0
+277,Mr.,Jeremy766,Stanton715,,Goyette777,white,nonhispanic,M,389 Wehner Trail Unit 85,2563.0,2019-08-15 01:57:32+00:00,0,1,0,1,1,0,1,0,0,0,1
+278,Mrs.,Ladonna785,Reynolds644,,Kris249,white,nonhispanic,F,1046 Willms Flat,2568.0,2020-09-20 00:55:17+00:00,0,0,0,1,1,0,1,0,0,0,1
+279,Mr.,Brent147,Stracke611,PhD,Fisher429,white,nonhispanic,M,570 Glover Tunnel,2574.0,2020-06-02 22:54:16+00:00,0,1,0,0,1,0,1,0,0,0,0
+280,Mrs.,Delfina519,Montoya249,,Prohaska837,white,hispanic,F,1060 Collins Fort Unit 57,2576.0,2019-11-06 04:40:43+00:00,1,0,0,1,0,0,1,0,0,0,0
+281,Mrs.,Darleen361,Little434,,Osinski784,white,nonhispanic,F,589 Emard Gardens,2601.0,2020-04-29 11:11:31+00:00,0,0,0,1,0,0,1,0,0,0,1
+282,Mrs.,Melvina326,Reinger292,,Mann644,white,nonhispanic,F,935 Gislason Fort Suite 63,2630.0,2019-12-28 13:17:35+00:00,1,0,0,1,0,0,1,0,0,0,1
+283,Mrs.,Glen190,Wiegand701,,Lind531,white,nonhispanic,F,944 Schmidt Meadow Apt 45,2631.0,2020-11-06 00:40:17+00:00,1,1,0,1,1,0,1,0,0,0,1
+284,Mrs.,Margot418,Willms744,,Jenkins714,white,nonhispanic,F,338 Bauch Landing,2632.0,2020-11-20 15:01:17+00:00,0,0,0,1,0,0,1,0,0,0,0
+285,Mr.,Deandre599,Barton704,,Crona259,white,nonhispanic,M,597 McDermott Parade Unit 37,2633.0,2020-03-08 07:07:39+00:00,0,0,0,0,0,0,1,0,0,0,0
+286,Mr.,Andy346,Bogan287,,O'Kon634,white,nonhispanic,M,970 Paucek Boulevard Unit 65,2635.0,2020-10-17 21:47:40+00:00,0,0,0,0,0,0,1,0,0,0,0
+287,Mr.,Rex53,Gorczany269,,Kuhn96,white,nonhispanic,M,427 Bradtke Approach Suite 90,2637.0,2019-01-05 01:04:58+00:00,0,1,0,1,1,0,1,0,0,0,1
+288,Mr.,Mozell819,Deckow585,JD,Kuvalis369,white,nonhispanic,M,736 Ratke Lodge,2638.0,2020-06-02 16:44:34+00:00,0,1,0,1,0,0,1,0,0,0,1
+289,Mr.,Jere230,Johnston597,JD,Conroy74,white,nonhispanic,M,876 Smith Course,2639.0,2020-09-18 21:37:48+00:00,0,1,0,1,0,0,1,0,0,0,1
+290,Mr.,Doug189,Beer512,MD,Collier206,white,nonhispanic,M,947 Hane Boulevard Apt 94,2641.0,2020-06-26 01:30:09+00:00,0,1,0,1,1,0,1,0,0,0,0
+291,Mr.,Houston994,Schowalter414,,Lindgren255,white,nonhispanic,M,118 Kris Alley Unit 58,2644.0,2020-02-23 09:15:45+00:00,1,1,0,1,0,0,1,0,0,0,1
+292,Mr.,Bernie827,Pfeffer420,PhD,Nienow652,white,nonhispanic,M,209 Reichel Well Suite 67,2645.0,2019-03-15 17:53:00+00:00,0,1,0,1,0,0,1,0,0,0,0
+293,Mr.,Jeffry142,Nolan344,,,white,nonhispanic,M,931 Abshire Road,2646.0,2020-11-20 05:53:10+00:00,0,0,0,0,0,0,1,0,0,0,0
+294,Ms.,Dedra50,Medhurst46,,Yundt842,white,nonhispanic,F,940 Braun Stravenue,2647.0,2020-11-29 07:20:13+00:00,0,1,0,1,1,0,1,0,0,0,1
+295,Mr.,Kevin729,Leuschke194,,O'Keefe54,white,nonhispanic,M,173 Sawayn Manor,2648.0,2020-03-23 09:25:03+00:00,0,1,0,0,0,0,1,0,0,0,1
+296,Mrs.,Angila948,Murazik203,,Lowe577,white,nonhispanic,F,359 Langosh Walk,2651.0,2020-02-11 13:54:49+00:00,0,0,0,1,1,0,1,0,0,0,0
+297,Mr.,Rufus33,Casper496,,Hagenes547,white,nonhispanic,M,171 Langosh Trailer Apt 12,2653.0,2019-12-14 01:41:56+00:00,0,1,0,1,0,0,1,0,0,0,1
+298,Mr.,Deon400,Gerhold939,JD,Abernathy524,white,nonhispanic,M,993 Glover Camp,2655.0,2020-02-08 16:37:57+00:00,0,0,0,1,0,0,1,0,0,0,0
+299,Mrs.,Carmelina668,Miller503,,Lindgren255,white,nonhispanic,F,355 Lemke Rest,2657.0,2020-04-25 03:53:12+00:00,0,0,0,0,0,0,1,0,0,0,1
+300,Mr.,Megan108,Hartmann983,,Rogahn59,white,nonhispanic,M,842 Considine Key Suite 8,2660.0,2019-05-13 14:03:01+00:00,0,0,0,1,0,0,1,0,0,0,0
+301,Ms.,Elmira442,Goldner995,,Fadel536,white,nonhispanic,F,900 Schuppe Parade,2664.0,2019-12-07 17:19:30+00:00,1,1,0,1,1,0,1,0,0,0,1
+302,Mr.,Lacy523,Pagac496,,Hane680,white,nonhispanic,M,491 Beahan Meadow,2668.0,2019-01-21 09:15:09+00:00,0,1,0,1,0,0,1,0,0,0,1
+303,Mrs.,Micha632,Bailey598,,Towne435,white,nonhispanic,F,724 Stroman Mission,2670.0,2019-08-18 08:11:44+00:00,0,1,0,1,0,0,1,0,0,0,0
+304,Mrs.,Tamar361,Kassulke119,,Herzog843,white,nonhispanic,F,524 Boehm Gate,2672.0,2019-02-06 16:01:29+00:00,0,0,0,1,0,0,1,0,0,0,0
+305,Mr.,Lashay246,Funk324,,Lakin515,white,nonhispanic,F,375 Gerhold Stravenue,2673.0,2019-09-25 16:08:11+00:00,0,1,0,1,1,1,1,0,0,0,1
+306,Mr.,Dave764,Crona259,,Hackett68,white,nonhispanic,M,510 Bernhard Fort,2675.0,2020-01-03 03:12:20+00:00,1,1,0,1,1,0,1,0,1,0,1
+307,Mr.,Bridget51,Wolff180,MD,Cruickshank494,white,nonhispanic,F,319 Kris Pathway,2703.0,2020-02-26 07:07:10+00:00,0,1,0,1,1,0,1,0,0,0,1
+308,Mr.,Sonny285,Reynolds644,,Littel644,white,nonhispanic,F,844 Rau Track Unit 50,2718.0,2019-04-25 01:48:55+00:00,1,1,0,1,0,0,1,0,0,0,1
+309,Mr.,Arlyne429,Grant908,JD,Collier206,white,nonhispanic,M,500 Raynor Bay Suite 14,2720.0,2019-09-22 04:15:58+00:00,0,1,0,1,1,1,1,0,0,0,1
+310,Mr.,Brenton674,Marvin195,,Armstrong51,white,nonhispanic,M,641 Von Promenade,2721.0,2019-12-07 06:07:05+00:00,0,1,0,1,0,0,1,0,0,0,1
+311,Mrs.,Piper612,Lowe577,MD,Stracke611,white,nonhispanic,F,680 Buckridge Crossroad,2723.0,2020-11-01 09:00:31+00:00,0,1,0,1,1,1,1,0,0,0,1
+312,Mr.,Donn979,Franecki195,,Nevárez403,white,nonhispanic,M,186 McLaughlin Manor,2724.0,2020-11-15 18:35:48+00:00,1,1,0,1,1,0,1,0,0,0,1
+313,Mr.,Bennett146,Steuber698,,Doyle959,white,nonhispanic,M,1096 Jones Route Unit 24,2725.0,2020-03-05 18:43:36+00:00,1,1,0,1,1,0,1,0,0,0,1
+314,Mrs.,Bobby524,Keebler762,,Hand679,white,nonhispanic,F,906 Herman Orchard Suite 6,2726.0,2020-12-21 09:31:56+00:00,1,1,0,1,1,0,1,0,0,0,1
+315,Mr.,Gavin481,Waelchi213,,Carroll471,white,nonhispanic,M,846 Ruecker Divide,2740.0,2019-05-26 15:08:25+00:00,1,0,0,1,1,0,1,0,0,0,0
+316,Mr.,Gilberto712,Rosales49,,Farrell962,white,nonhispanic,M,742 Schumm Junction Apt 13,2743.0,2019-03-18 13:34:23+00:00,0,1,0,1,0,1,1,0,0,0,1
+317,Mr.,Porter490,Wuckert783,,Ruecker817,white,nonhispanic,M,830 Hirthe Row,2744.0,2019-06-26 07:01:38+00:00,1,1,0,1,1,0,1,0,0,0,1
+318,Mr.,Scottie437,Hyatt152,,Hodkiewicz467,white,nonhispanic,M,359 Beier Parade Suite 93,2745.0,2019-05-20 03:08:50+00:00,1,1,0,1,1,0,1,0,0,0,1
+319,Mrs.,Joeann663,Botsford977,,Streich926,white,nonhispanic,F,548 Terry Port Unit 41,2746.0,2019-02-13 22:45:41+00:00,1,1,0,1,0,0,1,0,0,0,1
+320,Mr.,Edmundo94,Greenholt190,JD,Funk324,white,nonhispanic,M,894 Smitham Trailer,2747.0,2020-03-19 07:06:02+00:00,1,1,0,1,1,0,1,0,0,0,1
+321,Mr.,Neal874,Homenick806,,Beier427,black,nonhispanic,M,554 Moore Ramp Apt 14,2748.0,2019-06-19 00:23:10+00:00,1,1,0,1,1,0,1,0,0,0,1
+322,Mr.,Daren950,Pacocha935,MD,Hermann103,white,nonhispanic,M,882 Bauch Walk,2767.0,2020-02-25 06:37:53+00:00,1,1,0,1,0,1,1,0,1,0,1
+323,Mr.,Adolph80,Bechtelar572,,Koelpin146,white,nonhispanic,F,732 Nolan Union,2768.0,2020-01-24 21:08:22+00:00,1,1,0,1,0,0,1,0,0,0,0
+324,Mr.,Lou594,Dooley940,MD,Howell947,white,nonhispanic,M,1011 Bashirian Hollow,2780.0,2019-02-08 21:07:27+00:00,1,1,0,1,0,0,1,0,1,0,1
+325,Mr.,Saul605,Abshire638,PhD,Herman763,white,nonhispanic,M,768 Lemke Union Apt 66,2790.0,2019-07-15 05:09:16+00:00,1,1,0,1,0,1,1,0,0,0,1
+326,Mr.,Basil991,Bartoletti50,,Runte676,white,nonhispanic,M,457 Orn Rue,2861.0,2019-07-23 17:15:36+00:00,1,1,0,1,0,0,1,0,0,0,1
